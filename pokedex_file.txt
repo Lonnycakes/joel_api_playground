@@ -4,6 +4,10 @@
         "name": "bulbasaur",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "poison",
+            "grass"
         ]
     },
     {
@@ -11,6 +15,10 @@
         "name": "ivysaur",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "poison",
+            "grass"
         ]
     },
     {
@@ -18,6 +26,10 @@
         "name": "venusaur",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "poison",
+            "grass"
         ]
     },
     {
@@ -25,6 +37,9 @@
         "name": "charmander",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fire"
         ]
     },
     {
@@ -32,6 +47,9 @@
         "name": "charmeleon",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fire"
         ]
     },
     {
@@ -39,6 +57,10 @@
         "name": "charizard",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "flying",
+            "fire"
         ]
     },
     {
@@ -46,6 +68,9 @@
         "name": "squirtle",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -53,6 +78,9 @@
         "name": "wartortle",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -60,6 +88,9 @@
         "name": "blastoise",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -82,6 +113,9 @@
             "pattern-bush-area",
             "kalos-route-2-area",
             "santalune-forest-area"
+        ],
+        "types": [
+            "bug"
         ]
     },
     {
@@ -101,6 +135,9 @@
             "pattern-bush-area",
             "unova-route-12-area",
             "santalune-forest-area"
+        ],
+        "types": [
+            "bug"
         ]
     },
     {
@@ -111,6 +148,10 @@
             "kanto-route-2-north-towards-pewter-city",
             "viridian-forest-area",
             "unova-route-12-area"
+        ],
+        "types": [
+            "flying",
+            "bug"
         ]
     },
     {
@@ -133,6 +174,10 @@
             "pattern-bush-area",
             "kalos-route-2-area",
             "santalune-forest-area"
+        ],
+        "types": [
+            "poison",
+            "bug"
         ]
     },
     {
@@ -152,6 +197,10 @@
             "pattern-bush-area",
             "unova-route-12-area",
             "santalune-forest-area"
+        ],
+        "types": [
+            "poison",
+            "bug"
         ]
     },
     {
@@ -162,6 +211,10 @@
             "kanto-route-2-north-towards-pewter-city",
             "viridian-forest-area",
             "unova-route-12-area"
+        ],
+        "types": [
+            "poison",
+            "bug"
         ]
     },
     {
@@ -198,6 +251,10 @@
             "five-isle-meadow-area",
             "kalos-route-2-area",
             "kalos-route-3-area"
+        ],
+        "types": [
+            "flying",
+            "normal"
         ]
     },
     {
@@ -224,6 +281,10 @@
             "berry-forest-area",
             "bond-bridge-area",
             "five-isle-meadow-area"
+        ],
+        "types": [
+            "flying",
+            "normal"
         ]
     },
     {
@@ -231,6 +292,10 @@
         "name": "pidgeot",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "flying",
+            "normal"
         ]
     },
     {
@@ -293,6 +358,9 @@
             "castelia-sewers-area",
             "castelia-sewers-unknown-area-38",
             "relic-passage-castelia-sewers-entrance"
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -328,6 +396,9 @@
             "strange-house-1f",
             "strange-house-b1f",
             "relic-passage-relic-castle-entrance"
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -358,6 +429,10 @@
             "water-path-area",
             "ruin-valley-area",
             "canyon-entrance-area"
+        ],
+        "types": [
+            "flying",
+            "normal"
         ]
     },
     {
@@ -386,6 +461,10 @@
             "canyon-entrance-area",
             "sevault-canyon-area",
             "unova-route-15-area"
+        ],
+        "types": [
+            "flying",
+            "normal"
         ]
     },
     {
@@ -402,6 +481,9 @@
             "kanto-route-10-area",
             "kanto-route-11-area",
             "kanto-route-23-area"
+        ],
+        "types": [
+            "poison"
         ]
     },
     {
@@ -424,6 +506,9 @@
             "kanto-victory-road-2-1f",
             "kanto-victory-road-2-2f",
             "kanto-victory-road-2-3f"
+        ],
+        "types": [
+            "poison"
         ]
     },
     {
@@ -437,6 +522,9 @@
             "hoenn-safari-zone-se",
             "kalos-route-3-area",
             "santalune-forest-area"
+        ],
+        "types": [
+            "electric"
         ]
     },
     {
@@ -446,6 +534,9 @@
             "cerulean-cave-1f",
             "cerulean-cave-b1f",
             "power-plant-area"
+        ],
+        "types": [
+            "electric"
         ]
     },
     {
@@ -471,6 +562,9 @@
             "desert-resort-entrance",
             "desert-resort-area",
             "relic-castle-a"
+        ],
+        "types": [
+            "ground"
         ]
     },
     {
@@ -497,6 +591,9 @@
             "terminus-cave-unknown-area-345",
             "terminus-cave-unknown-area-347",
             "terminus-cave-unknown-area-348"
+        ],
+        "types": [
+            "ground"
         ]
     },
     {
@@ -515,6 +612,9 @@
             "kanto-safari-zone-area-1-east",
             "kanto-safari-zone-area-2-north",
             "kanto-safari-zone-area-3-west"
+        ],
+        "types": [
+            "poison"
         ]
     },
     {
@@ -533,6 +633,9 @@
             "kanto-safari-zone-area-2-north",
             "kanto-safari-zone-area-3-west",
             "kalos-route-11-area"
+        ],
+        "types": [
+            "poison"
         ]
     },
     {
@@ -540,6 +643,10 @@
         "name": "nidoqueen",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "ground",
+            "poison"
         ]
     },
     {
@@ -558,6 +665,9 @@
             "kanto-safari-zone-area-1-east",
             "kanto-safari-zone-area-2-north",
             "kanto-safari-zone-area-3-west"
+        ],
+        "types": [
+            "poison"
         ]
     },
     {
@@ -576,6 +686,9 @@
             "kanto-safari-zone-area-2-north",
             "kanto-safari-zone-area-3-west",
             "kalos-route-11-area"
+        ],
+        "types": [
+            "poison"
         ]
     },
     {
@@ -583,6 +696,10 @@
         "name": "nidoking",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "ground",
+            "poison"
         ]
     },
     {
@@ -609,6 +726,9 @@
             "giant-chasm-area",
             "giant-chasm-forest",
             "giant-chasm-forest-cave"
+        ],
+        "types": [
+            "fairy"
         ]
     },
     {
@@ -618,6 +738,9 @@
             "giant-chasm-outside",
             "giant-chasm-forest",
             "giant-chasm-forest-cave"
+        ],
+        "types": [
+            "fairy"
         ]
     },
     {
@@ -637,6 +760,9 @@
             "pokemon-mansion-b1f",
             "mt-pyre-outside",
             "abundant-shrine-area"
+        ],
+        "types": [
+            "fire"
         ]
     },
     {
@@ -644,6 +770,9 @@
         "name": "ninetales",
         "locations": [
             "abundant-shrine-area"
+        ],
+        "types": [
+            "fire"
         ]
     },
     {
@@ -664,6 +793,10 @@
             "unova-route-14-area",
             "kalos-route-20-area",
             "pokemon-village-area"
+        ],
+        "types": [
+            "fairy",
+            "normal"
         ]
     },
     {
@@ -675,6 +808,10 @@
             "unova-route-1-area",
             "unova-route-2-area",
             "unova-route-14-area"
+        ],
+        "types": [
+            "fairy",
+            "normal"
         ]
     },
     {
@@ -788,6 +925,10 @@
             "castelia-sewers-area",
             "castelia-sewers-unknown-area-38",
             "connecting-cave-area"
+        ],
+        "types": [
+            "flying",
+            "poison"
         ]
     },
     {
@@ -919,6 +1060,10 @@
             "unova-route-13-area",
             "strange-house-1f",
             "strange-house-b1f"
+        ],
+        "types": [
+            "flying",
+            "poison"
         ]
     },
     {
@@ -953,6 +1098,10 @@
             "bond-bridge-area",
             "water-path-area",
             "kalos-route-6-area"
+        ],
+        "types": [
+            "poison",
+            "grass"
         ]
     },
     {
@@ -981,6 +1130,10 @@
             "cape-brink-area",
             "bond-bridge-area",
             "water-path-area"
+        ],
+        "types": [
+            "poison",
+            "grass"
         ]
     },
     {
@@ -988,6 +1141,10 @@
         "name": "vileplume",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "poison",
+            "grass"
         ]
     },
     {
@@ -1002,6 +1159,10 @@
             "kanto-safari-zone-middle",
             "kanto-safari-zone-area-1-east",
             "kanto-safari-zone-area-2-north"
+        ],
+        "types": [
+            "grass",
+            "bug"
         ]
     },
     {
@@ -1013,6 +1174,10 @@
             "cerulean-cave-b1f",
             "kanto-safari-zone-middle",
             "kanto-safari-zone-area-1-east"
+        ],
+        "types": [
+            "grass",
+            "bug"
         ]
     },
     {
@@ -1031,6 +1196,10 @@
             "kanto-safari-zone-area-3-west",
             "berry-forest-area",
             "bond-bridge-area"
+        ],
+        "types": [
+            "poison",
+            "bug"
         ]
     },
     {
@@ -1049,6 +1218,10 @@
             "kanto-safari-zone-area-3-west",
             "berry-forest-area",
             "dreamyard-area"
+        ],
+        "types": [
+            "poison",
+            "bug"
         ]
     },
     {
@@ -1059,6 +1232,9 @@
             "vermilion-city-area",
             "johto-route-48-area",
             "digletts-cave-area"
+        ],
+        "types": [
+            "ground"
         ]
     },
     {
@@ -1068,6 +1244,9 @@
             "sinnoh-route-228-area",
             "digletts-cave-area",
             "kalos-route-13-area"
+        ],
+        "types": [
+            "ground"
         ]
     },
     {
@@ -1089,6 +1268,9 @@
             "ruin-valley-area",
             "canyon-entrance-area",
             "sevault-canyon-area"
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -1106,6 +1288,9 @@
             "ruin-valley-area",
             "canyon-entrance-area",
             "sevault-canyon-area"
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -1198,6 +1383,9 @@
             "five-island-area",
             "floccesy-ranch-inner",
             "kalos-route-22-area"
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -1256,6 +1444,9 @@
             "nature-sanctuary-area",
             "unova-route-22-area",
             "unova-route-23-area"
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -1276,6 +1467,9 @@
             "kanto-route-9-area",
             "kanto-route-22-area",
             "kanto-route-23-area"
+        ],
+        "types": [
+            "fighting"
         ]
     },
     {
@@ -1288,6 +1482,9 @@
             "cerulean-cave-1f",
             "kanto-route-23-area",
             "kanto-victory-road-2-2f"
+        ],
+        "types": [
+            "fighting"
         ]
     },
     {
@@ -1306,6 +1503,9 @@
             "pokemon-mansion-3f",
             "pokemon-mansion-b1f",
             "virbank-complex-inner"
+        ],
+        "types": [
+            "fire"
         ]
     },
     {
@@ -1313,6 +1513,9 @@
         "name": "arcanine",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fire"
         ]
     },
     {
@@ -1407,6 +1610,9 @@
             "kalos-victory-road-unknown-area-322",
             "kalos-victory-road-unknown-area-327",
             "kalos-victory-road-unknown-area-328"
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -1470,6 +1676,9 @@
             "kalos-victory-road-unknown-area-322",
             "kalos-victory-road-unknown-area-327",
             "kalos-victory-road-unknown-area-328"
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -1489,6 +1698,10 @@
             "clay-tunnel-area",
             "unova-route-23-area",
             "kalos-victory-road-unknown-area-328"
+        ],
+        "types": [
+            "fighting",
+            "water"
         ]
     },
     {
@@ -1511,6 +1724,9 @@
             "granite-cave-1fsmall-room",
             "hoenn-route-116-area",
             "kalos-route-5-area"
+        ],
+        "types": [
+            "psychic"
         ]
     },
     {
@@ -1523,6 +1739,9 @@
             "cerulean-cave-1f",
             "cerulean-cave-2f",
             "cerulean-cave-b1f"
+        ],
+        "types": [
+            "psychic"
         ]
     },
     {
@@ -1530,6 +1749,9 @@
         "name": "alakazam",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "psychic"
         ]
     },
     {
@@ -1563,6 +1785,9 @@
             "mt-ember-inside",
             "mt-ember-1f-cave-behind-team-rocket",
             "glittering-cave-unknown-area-303"
+        ],
+        "types": [
+            "fighting"
         ]
     },
     {
@@ -1605,6 +1830,9 @@
             "kanto-victory-road-2-3f",
             "mt-ember-inside",
             "mt-ember-1f-cave-behind-team-rocket"
+        ],
+        "types": [
+            "fighting"
         ]
     },
     {
@@ -1612,6 +1840,9 @@
         "name": "machamp",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fighting"
         ]
     },
     {
@@ -1637,6 +1868,10 @@
             "cape-brink-area",
             "bond-bridge-area",
             "water-path-area"
+        ],
+        "types": [
+            "poison",
+            "grass"
         ]
     },
     {
@@ -1662,6 +1897,10 @@
             "kalos-route-14-area",
             "kalos-route-16-area",
             "kalos-route-19-area"
+        ],
+        "types": [
+            "poison",
+            "grass"
         ]
     },
     {
@@ -1669,6 +1908,10 @@
         "name": "victreebel",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "poison",
+            "grass"
         ]
     },
     {
@@ -1777,6 +2020,10 @@
             "kalos-route-8-area",
             "kalos-route-12-area",
             "azure-bay-area"
+        ],
+        "types": [
+            "poison",
+            "water"
         ]
     },
     {
@@ -1841,6 +2088,10 @@
             "tanoby-ruins-area",
             "one-island-area",
             "five-island-area"
+        ],
+        "types": [
+            "poison",
+            "water"
         ]
     },
     {
@@ -1916,6 +2167,10 @@
             "mt-ember-b2f",
             "kindle-road-area",
             "sevault-canyon-area"
+        ],
+        "types": [
+            "ground",
+            "rock"
         ]
     },
     {
@@ -1998,6 +2253,10 @@
             "terminus-cave-unknown-area-345",
             "terminus-cave-unknown-area-347",
             "terminus-cave-unknown-area-348"
+        ],
+        "types": [
+            "ground",
+            "rock"
         ]
     },
     {
@@ -2005,6 +2264,10 @@
         "name": "golem",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "ground",
+            "rock"
         ]
     },
     {
@@ -2030,6 +2293,9 @@
             "pokemon-mansion-b1f",
             "mt-ember-area",
             "kindle-road-area"
+        ],
+        "types": [
+            "fire"
         ]
     },
     {
@@ -2041,6 +2307,9 @@
             "mt-ember-area",
             "kindle-road-area",
             "unova-route-12-area"
+        ],
+        "types": [
+            "fire"
         ]
     },
     {
@@ -2107,6 +2376,10 @@
             "abundant-shrine-area",
             "kalos-route-12-area",
             "azure-bay-area"
+        ],
+        "types": [
+            "psychic",
+            "water"
         ]
     },
     {
@@ -2128,6 +2401,10 @@
             "berry-forest-area",
             "cape-brink-area",
             "abundant-shrine-area"
+        ],
+        "types": [
+            "psychic",
+            "water"
         ]
     },
     {
@@ -2146,6 +2423,10 @@
             "new-mauville-area",
             "virbank-complex-outer",
             "virbank-complex-inner"
+        ],
+        "types": [
+            "steel",
+            "electric"
         ]
     },
     {
@@ -2161,6 +2442,10 @@
             "new-mauville-area",
             "p2-laboratory-area",
             "lost-hotel-area"
+        ],
+        "types": [
+            "steel",
+            "electric"
         ]
     },
     {
@@ -2175,6 +2460,10 @@
             "johto-route-48-area",
             "kanto-route-13-area",
             "kalos-route-22-area"
+        ],
+        "types": [
+            "flying",
+            "normal"
         ]
     },
     {
@@ -2196,6 +2485,10 @@
             "hoenn-safari-zone-sw",
             "hoenn-safari-zone-se",
             "kalos-route-5-area"
+        ],
+        "types": [
+            "flying",
+            "normal"
         ]
     },
     {
@@ -2210,6 +2503,10 @@
             "cerulean-cave-1f",
             "cerulean-cave-2f",
             "hoenn-safari-zone-nwmach-bike-area"
+        ],
+        "types": [
+            "flying",
+            "normal"
         ]
     },
     {
@@ -2235,6 +2532,9 @@
             "giant-chasm-area",
             "giant-chasm-forest-cave",
             "seaside-cave-1f"
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -2252,6 +2552,10 @@
             "giant-chasm-area",
             "giant-chasm-forest-cave",
             "seaside-cave-1f"
+        ],
+        "types": [
+            "ice",
+            "water"
         ]
     },
     {
@@ -2271,6 +2575,9 @@
             "fiery-path-area",
             "castelia-sewers-area",
             "castelia-sewers-unknown-area-38"
+        ],
+        "types": [
+            "poison"
         ]
     },
     {
@@ -2289,6 +2596,9 @@
             "unova-route-9-area",
             "castelia-sewers-area",
             "castelia-sewers-unknown-area-38"
+        ],
+        "types": [
+            "poison"
         ]
     },
     {
@@ -2329,6 +2639,9 @@
             "humilau-city-area",
             "seaside-cave-1f",
             "kalos-route-8-area"
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -2341,6 +2654,10 @@
             "humilau-city-area",
             "seaside-cave-1f",
             "kalos-route-8-area"
+        ],
+        "types": [
+            "ice",
+            "water"
         ]
     },
     {
@@ -2392,6 +2709,10 @@
             "lost-cave-room-9",
             "lost-cave-room-10",
             "lost-cave-item-rooms"
+        ],
+        "types": [
+            "poison",
+            "ghost"
         ]
     },
     {
@@ -2441,6 +2762,10 @@
             "kalos-victory-road-unknown-area-324",
             "kalos-victory-road-unknown-area-326",
             "kalos-victory-road-unknown-area-328"
+        ],
+        "types": [
+            "poison",
+            "ghost"
         ]
     },
     {
@@ -2448,6 +2773,10 @@
         "name": "gengar",
         "locations": [
             "old-chateau-2f-right-room"
+        ],
+        "types": [
+            "poison",
+            "ghost"
         ]
     },
     {
@@ -2508,6 +2837,10 @@
             "cyllage-city-area",
             "glittering-cave-unknown-area-303",
             "glittering-cave-unknown-area-304"
+        ],
+        "types": [
+            "ground",
+            "rock"
         ]
     },
     {
@@ -2519,6 +2852,9 @@
             "johto-route-35-area",
             "kanto-route-11-area",
             "berry-forest-area"
+        ],
+        "types": [
+            "psychic"
         ]
     },
     {
@@ -2528,6 +2864,9 @@
             "kanto-route-11-area",
             "cerulean-cave-1f",
             "berry-forest-area"
+        ],
+        "types": [
+            "psychic"
         ]
     },
     {
@@ -2595,6 +2934,9 @@
             "unova-route-13-area",
             "virbank-city-area",
             "virbank-complex-outer"
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -2643,6 +2985,9 @@
             "unova-route-13-area",
             "virbank-city-area",
             "virbank-complex-outer"
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -2654,6 +2999,9 @@
             "power-plant-area",
             "new-mauville-entrance",
             "new-mauville-area"
+        ],
+        "types": [
+            "electric"
         ]
     },
     {
@@ -2665,6 +3013,9 @@
             "cerulean-cave-b1f",
             "new-mauville-area",
             "lost-hotel-area"
+        ],
+        "types": [
+            "electric"
         ]
     },
     {
@@ -2678,6 +3029,10 @@
             "berry-forest-area",
             "kalos-route-12-area",
             "azure-bay-area"
+        ],
+        "types": [
+            "psychic",
+            "grass"
         ]
     },
     {
@@ -2685,6 +3040,10 @@
         "name": "exeggutor",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "psychic",
+            "grass"
         ]
     },
     {
@@ -2704,6 +3063,9 @@
             "kanto-safari-zone-area-3-west",
             "sevault-canyon-area",
             "glittering-cave-unknown-area-303"
+        ],
+        "types": [
+            "ground"
         ]
     },
     {
@@ -2720,6 +3082,9 @@
             "kanto-safari-zone-area-3-west",
             "sevault-canyon-area",
             "unova-route-15-area"
+        ],
+        "types": [
+            "ground"
         ]
     },
     {
@@ -2727,6 +3092,9 @@
         "name": "hitmonlee",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fighting"
         ]
     },
     {
@@ -2734,6 +3102,9 @@
         "name": "hitmonchan",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fighting"
         ]
     },
     {
@@ -2752,6 +3123,9 @@
             "kalos-victory-road-unknown-area-324",
             "kalos-victory-road-unknown-area-326",
             "kalos-victory-road-unknown-area-328"
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -2768,6 +3142,9 @@
             "pokemon-mansion-b1f",
             "fiery-path-area",
             "virbank-complex-inner"
+        ],
+        "types": [
+            "poison"
         ]
     },
     {
@@ -2783,6 +3160,9 @@
             "pokemon-mansion-3f",
             "pokemon-mansion-b1f",
             "p2-laboratory-area"
+        ],
+        "types": [
+            "poison"
         ]
     },
     {
@@ -2803,6 +3183,10 @@
             "kanto-safari-zone-area-2-north",
             "hoenn-safari-zone-nwmach-bike-area",
             "glittering-cave-unknown-area-303"
+        ],
+        "types": [
+            "rock",
+            "ground"
         ]
     },
     {
@@ -2817,6 +3201,10 @@
             "sinnoh-route-228-area",
             "cerulean-cave-2f",
             "cerulean-cave-b1f"
+        ],
+        "types": [
+            "rock",
+            "ground"
         ]
     },
     {
@@ -2833,6 +3221,9 @@
             "kanto-safari-zone-middle",
             "kanto-safari-zone-area-1-east",
             "kanto-safari-zone-area-2-north"
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -2854,6 +3245,9 @@
             "treasure-beach-area",
             "giant-chasm-outside",
             "unova-route-13-area"
+        ],
+        "types": [
+            "grass"
         ]
     },
     {
@@ -2866,6 +3260,9 @@
             "kanto-safari-zone-area-3-west",
             "unova-route-15-area",
             "glittering-cave-unknown-area-303"
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -2917,6 +3314,9 @@
             "unova-route-17-area",
             "ambrette-town-area",
             "cyllage-city-area"
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -2959,6 +3359,9 @@
             "unova-route-17-area",
             "ambrette-town-area",
             "cyllage-city-area"
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -3062,6 +3465,9 @@
             "kalos-route-3-area",
             "kalos-route-22-area",
             "parfum-palace-area"
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -3128,6 +3534,9 @@
             "kalos-route-3-area",
             "kalos-route-22-area",
             "parfum-palace-area"
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -3164,6 +3573,9 @@
             "undella-town-area",
             "humilau-city-area",
             "kalos-route-8-area"
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -3174,6 +3586,10 @@
             "undella-town-area",
             "humilau-city-area",
             "kalos-route-8-area"
+        ],
+        "types": [
+            "psychic",
+            "water"
         ]
     },
     {
@@ -3187,6 +3603,10 @@
             "reflection-cave-unknown-area-306",
             "reflection-cave-unknown-area-307",
             "reflection-cave-unknown-area-308"
+        ],
+        "types": [
+            "fairy",
+            "psychic"
         ]
     },
     {
@@ -3201,6 +3621,10 @@
             "kanto-safari-zone-area-1-east",
             "kanto-safari-zone-area-2-north",
             "kalos-route-21-area"
+        ],
+        "types": [
+            "flying",
+            "bug"
         ]
     },
     {
@@ -3223,6 +3647,10 @@
             "frost-cavern-unknown-area-315",
             "frost-cavern-unknown-area-316",
             "frost-cavern-unknown-area-317"
+        ],
+        "types": [
+            "psychic",
+            "ice"
         ]
     },
     {
@@ -3232,6 +3660,9 @@
             "sinnoh-route-222-area",
             "kanto-route-10-area",
             "power-plant-area"
+        ],
+        "types": [
+            "electric"
         ]
     },
     {
@@ -3243,6 +3674,9 @@
             "pokemon-mansion-3f",
             "pokemon-mansion-b1f",
             "mt-ember-area"
+        ],
+        "types": [
+            "fire"
         ]
     },
     {
@@ -3258,6 +3692,9 @@
             "unova-route-12-area",
             "lostlorn-forest-area",
             "kalos-route-12-area"
+        ],
+        "types": [
+            "bug"
         ]
     },
     {
@@ -3273,6 +3710,9 @@
             "kanto-safari-zone-area-2-north",
             "kanto-safari-zone-area-3-west",
             "kalos-route-12-area"
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -3489,6 +3929,9 @@
             "kalos-route-3-area",
             "kalos-route-22-area",
             "parfum-palace-area"
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -3601,6 +4044,10 @@
             "kalos-route-3-area",
             "kalos-route-22-area",
             "parfum-palace-area"
+        ],
+        "types": [
+            "flying",
+            "water"
         ]
     },
     {
@@ -3612,6 +4059,10 @@
             "village-bridge-area",
             "kalos-route-12-area",
             "azure-bay-area"
+        ],
+        "types": [
+            "ice",
+            "water"
         ]
     },
     {
@@ -3634,6 +4085,9 @@
             "giant-chasm-forest",
             "giant-chasm-forest-cave",
             "pokemon-village-area"
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -3642,6 +4096,9 @@
         "locations": [
             "castelia-city-area",
             "kalos-route-10-area"
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -3649,6 +4106,9 @@
         "name": "vaporeon",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -3656,6 +4116,9 @@
         "name": "jolteon",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "electric"
         ]
     },
     {
@@ -3663,6 +4126,9 @@
         "name": "flareon",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fire"
         ]
     },
     {
@@ -3670,6 +4136,9 @@
         "name": "porygon",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -3677,6 +4146,10 @@
         "name": "omanyte",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "water",
+            "rock"
         ]
     },
     {
@@ -3684,6 +4157,10 @@
         "name": "omastar",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "water",
+            "rock"
         ]
     },
     {
@@ -3691,6 +4168,10 @@
         "name": "kabuto",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "water",
+            "rock"
         ]
     },
     {
@@ -3698,6 +4179,10 @@
         "name": "kabutops",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "water",
+            "rock"
         ]
     },
     {
@@ -3705,6 +4190,10 @@
         "name": "aerodactyl",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "flying",
+            "rock"
         ]
     },
     {
@@ -3712,6 +4201,9 @@
         "name": "snorlax",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -3719,6 +4211,10 @@
         "name": "articuno",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "flying",
+            "ice"
         ]
     },
     {
@@ -3726,6 +4222,10 @@
         "name": "zapdos",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "flying",
+            "electric"
         ]
     },
     {
@@ -3733,6 +4233,10 @@
         "name": "moltres",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "flying",
+            "fire"
         ]
     },
     {
@@ -3747,6 +4251,9 @@
             "kanto-safari-zone-area-3-west",
             "dragonspiral-tower-outside",
             "kalos-route-21-area"
+        ],
+        "types": [
+            "dragon"
         ]
     },
     {
@@ -3761,6 +4268,9 @@
             "kanto-safari-zone-area-3-west",
             "dragonspiral-tower-outside",
             "kalos-route-21-area"
+        ],
+        "types": [
+            "dragon"
         ]
     },
     {
@@ -3768,6 +4278,10 @@
         "name": "dragonite",
         "locations": [
             "dragonspiral-tower-outside"
+        ],
+        "types": [
+            "flying",
+            "dragon"
         ]
     },
     {
@@ -3775,6 +4289,9 @@
         "name": "mewtwo",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "psychic"
         ]
     },
     {
@@ -3782,6 +4299,9 @@
         "name": "mew",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "psychic"
         ]
     },
     {
@@ -3789,6 +4309,9 @@
         "name": "chikorita",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "grass"
         ]
     },
     {
@@ -3796,6 +4319,9 @@
         "name": "bayleef",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "grass"
         ]
     },
     {
@@ -3803,6 +4329,9 @@
         "name": "meganium",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "grass"
         ]
     },
     {
@@ -3810,6 +4339,9 @@
         "name": "cyndaquil",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fire"
         ]
     },
     {
@@ -3817,6 +4349,9 @@
         "name": "quilava",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fire"
         ]
     },
     {
@@ -3824,6 +4359,9 @@
         "name": "typhlosion",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fire"
         ]
     },
     {
@@ -3831,6 +4369,9 @@
         "name": "totodile",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -3838,6 +4379,9 @@
         "name": "croconaw",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -3845,6 +4389,9 @@
         "name": "feraligatr",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -3858,6 +4405,9 @@
             "water-path-area",
             "canyon-entrance-area",
             "kalos-route-6-area"
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -3865,6 +4415,9 @@
         "name": "furret",
         "locations": [
             "kanto-route-1-area"
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -3895,6 +4448,10 @@
             "viridian-forest-area",
             "hoenn-safari-zone-expansion-south",
             "hoenn-safari-zone-expansion-north"
+        ],
+        "types": [
+            "flying",
+            "normal"
         ]
     },
     {
@@ -3929,6 +4486,10 @@
             "nature-sanctuary-area",
             "kalos-route-20-area",
             "pokemon-village-area"
+        ],
+        "types": [
+            "flying",
+            "normal"
         ]
     },
     {
@@ -3943,6 +4504,10 @@
             "hoenn-safari-zone-expansion-north",
             "pattern-bush-area",
             "kalos-route-4-area"
+        ],
+        "types": [
+            "flying",
+            "bug"
         ]
     },
     {
@@ -3954,6 +4519,10 @@
             "kanto-route-2-north-towards-pewter-city",
             "dreamyard-area",
             "dreamyard-b1f"
+        ],
+        "types": [
+            "flying",
+            "bug"
         ]
     },
     {
@@ -3967,6 +4536,10 @@
             "kanto-route-2-north-towards-pewter-city",
             "hoenn-safari-zone-expansion-south",
             "pattern-bush-area"
+        ],
+        "types": [
+            "poison",
+            "bug"
         ]
     },
     {
@@ -3978,6 +4551,10 @@
             "kanto-route-2-north-towards-pewter-city",
             "dreamyard-area",
             "dreamyard-b1f"
+        ],
+        "types": [
+            "poison",
+            "bug"
         ]
     },
     {
@@ -3987,6 +4564,10 @@
             "dreamyard-area",
             "giant-chasm-outside",
             "unova-route-13-area"
+        ],
+        "types": [
+            "flying",
+            "poison"
         ]
     },
     {
@@ -4012,6 +4593,10 @@
             "unova-route-18-area",
             "shalour-city-area",
             "azure-bay-area"
+        ],
+        "types": [
+            "electric",
+            "water"
         ]
     },
     {
@@ -4034,6 +4619,10 @@
             "undella-bay-area",
             "shalour-city-area",
             "azure-bay-area"
+        ],
+        "types": [
+            "electric",
+            "water"
         ]
     },
     {
@@ -4041,6 +4630,9 @@
         "name": "pichu",
         "locations": [
             "trophy-garden-area"
+        ],
+        "types": [
+            "electric"
         ]
     },
     {
@@ -4049,6 +4641,9 @@
         "locations": [
             "mt-coronet-route-207",
             "mt-coronet-route-211"
+        ],
+        "types": [
+            "fairy"
         ]
     },
     {
@@ -4056,6 +4651,10 @@
         "name": "igglybuff",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fairy",
+            "normal"
         ]
     },
     {
@@ -4063,6 +4662,9 @@
         "name": "togepi",
         "locations": [
             "sinnoh-sea-route-230-area"
+        ],
+        "types": [
+            "fairy"
         ]
     },
     {
@@ -4070,6 +4672,10 @@
         "name": "togetic",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "flying",
+            "fairy"
         ]
     },
     {
@@ -4082,6 +4688,10 @@
             "hoenn-safari-zone-sw",
             "hoenn-safari-zone-se",
             "ruin-valley-area"
+        ],
+        "types": [
+            "flying",
+            "psychic"
         ]
     },
     {
@@ -4089,6 +4699,10 @@
         "name": "xatu",
         "locations": [
             "hoenn-safari-zone-neacro-bike-area"
+        ],
+        "types": [
+            "flying",
+            "psychic"
         ]
     },
     {
@@ -4103,6 +4717,9 @@
             "hoenn-altering-cave-b",
             "kanto-altering-cave-b",
             "floccesy-ranch-inner"
+        ],
+        "types": [
+            "electric"
         ]
     },
     {
@@ -4112,6 +4729,9 @@
             "sinnoh-route-222-area",
             "johto-route-42-area",
             "johto-route-43-area"
+        ],
+        "types": [
+            "electric"
         ]
     },
     {
@@ -4119,6 +4739,9 @@
         "name": "ampharos",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "electric"
         ]
     },
     {
@@ -4126,6 +4749,9 @@
         "name": "bellossom",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "grass"
         ]
     },
     {
@@ -4167,6 +4793,10 @@
             "unova-route-20-area",
             "unova-route-22-area",
             "kalos-route-3-area"
+        ],
+        "types": [
+            "fairy",
+            "water"
         ]
     },
     {
@@ -4189,6 +4819,10 @@
             "unova-route-20-area",
             "unova-route-22-area",
             "kalos-route-22-area"
+        ],
+        "types": [
+            "fairy",
+            "water"
         ]
     },
     {
@@ -4197,6 +4831,9 @@
         "locations": [
             "sinnoh-route-214-area",
             "sinnoh-route-221-area"
+        ],
+        "types": [
+            "rock"
         ]
     },
     {
@@ -4212,6 +4849,9 @@
             "unova-route-19-area",
             "unova-route-20-area",
             "kalos-route-19-area"
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -4232,6 +4872,10 @@
             "five-isle-meadow-area",
             "memorial-pillar-area",
             "five-island-area"
+        ],
+        "types": [
+            "flying",
+            "grass"
         ]
     },
     {
@@ -4241,6 +4885,10 @@
             "fuego-ironworks-area",
             "sinnoh-route-205-east-towards-eterna-city",
             "kanto-route-14-area"
+        ],
+        "types": [
+            "flying",
+            "grass"
         ]
     },
     {
@@ -4248,6 +4896,10 @@
         "name": "jumpluff",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "flying",
+            "grass"
         ]
     },
     {
@@ -4258,6 +4910,9 @@
             "hoenn-safari-zone-expansion-north",
             "hoenn-altering-cave-f",
             "kanto-altering-cave-f"
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -4271,6 +4926,9 @@
             "hoenn-safari-zone-expansion-north",
             "unova-route-12-area",
             "unova-route-20-area"
+        ],
+        "types": [
+            "grass"
         ]
     },
     {
@@ -4278,6 +4936,9 @@
         "name": "sunflora",
         "locations": [
             "unova-route-12-area"
+        ],
+        "types": [
+            "grass"
         ]
     },
     {
@@ -4294,6 +4955,10 @@
             "ruin-valley-area",
             "pinwheel-forest-outside",
             "unova-route-3-area"
+        ],
+        "types": [
+            "flying",
+            "bug"
         ]
     },
     {
@@ -4317,6 +4982,10 @@
             "icefall-cave-entrance",
             "ruin-valley-area",
             "four-island-area"
+        ],
+        "types": [
+            "ground",
+            "water"
         ]
     },
     {
@@ -4352,6 +5021,10 @@
             "hoenn-safari-zone-expansion-south",
             "kalos-route-14-area",
             "kalos-route-19-area"
+        ],
+        "types": [
+            "ground",
+            "water"
         ]
     },
     {
@@ -4359,6 +5032,9 @@
         "name": "espeon",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "psychic"
         ]
     },
     {
@@ -4366,6 +5042,9 @@
         "name": "umbreon",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "dark"
         ]
     },
     {
@@ -4392,6 +5071,10 @@
             "lost-cave-room-10",
             "lost-cave-item-rooms",
             "abundant-shrine-area"
+        ],
+        "types": [
+            "flying",
+            "dark"
         ]
     },
     {
@@ -4399,6 +5082,10 @@
         "name": "slowking",
         "locations": [
             "abundant-shrine-area"
+        ],
+        "types": [
+            "psychic",
+            "water"
         ]
     },
     {
@@ -4429,6 +5116,9 @@
             "lost-cave-room-10",
             "lost-cave-item-rooms",
             "abundant-shrine-area"
+        ],
+        "types": [
+            "ghost"
         ]
     },
     {
@@ -4464,6 +5154,9 @@
             "scufib-chamber-area",
             "rixy-chamber-area",
             "viapos-chamber-area"
+        ],
+        "types": [
+            "psychic"
         ]
     },
     {
@@ -4485,6 +5178,9 @@
             "reflection-cave-unknown-area-306",
             "reflection-cave-unknown-area-307",
             "reflection-cave-unknown-area-308"
+        ],
+        "types": [
+            "psychic"
         ]
     },
     {
@@ -4499,6 +5195,10 @@
             "hoenn-safari-zone-sw",
             "hoenn-safari-zone-se",
             "nature-sanctuary-area"
+        ],
+        "types": [
+            "psychic",
+            "normal"
         ]
     },
     {
@@ -4514,6 +5214,9 @@
             "hoenn-safari-zone-expansion-north",
             "hoenn-altering-cave-c",
             "kanto-altering-cave-c"
+        ],
+        "types": [
+            "bug"
         ]
     },
     {
@@ -4521,6 +5224,10 @@
         "name": "forretress",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "steel",
+            "bug"
         ]
     },
     {
@@ -4545,6 +5252,9 @@
             "unova-route-20-area",
             "kalos-route-3-area",
             "kalos-route-22-area"
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -4562,6 +5272,10 @@
             "unova-route-11-area",
             "unova-route-15-area",
             "unova-route-23-area"
+        ],
+        "types": [
+            "flying",
+            "ground"
         ]
     },
     {
@@ -4591,6 +5305,10 @@
             "rocky-mountain-room-area",
             "glacier-room-area",
             "iron-room-area"
+        ],
+        "types": [
+            "ground",
+            "steel"
         ]
     },
     {
@@ -4601,6 +5319,9 @@
             "johto-route-38-area",
             "hoenn-safari-zone-expansion-south",
             "kalos-route-10-area"
+        ],
+        "types": [
+            "fairy"
         ]
     },
     {
@@ -4608,6 +5329,9 @@
         "name": "granbull",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fairy"
         ]
     },
     {
@@ -4634,6 +5358,10 @@
             "virbank-city-area",
             "virbank-complex-outer",
             "kalos-route-8-area"
+        ],
+        "types": [
+            "poison",
+            "water"
         ]
     },
     {
@@ -4641,6 +5369,10 @@
         "name": "scizor",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "steel",
+            "bug"
         ]
     },
     {
@@ -4661,6 +5393,10 @@
             "terminus-cave-unknown-area-343",
             "terminus-cave-unknown-area-344",
             "terminus-cave-unknown-area-345"
+        ],
+        "types": [
+            "rock",
+            "bug"
         ]
     },
     {
@@ -4672,6 +5408,10 @@
             "unova-route-12-area",
             "lostlorn-forest-area",
             "kalos-route-12-area"
+        ],
+        "types": [
+            "fighting",
+            "bug"
         ]
     },
     {
@@ -4698,6 +5438,10 @@
             "giant-chasm-area",
             "giant-chasm-forest-cave",
             "kalos-route-17-area"
+        ],
+        "types": [
+            "ice",
+            "dark"
         ]
     },
     {
@@ -4716,6 +5460,9 @@
             "hoenn-safari-zone-expansion-north",
             "hoenn-altering-cave-e",
             "kanto-altering-cave-e"
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -4739,6 +5486,9 @@
             "kanto-victory-road-1-2f",
             "kanto-victory-road-1-3f",
             "kalos-route-21-area"
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -4756,6 +5506,9 @@
             "mt-ember-b2f",
             "mt-ember-b3f",
             "kalos-route-13-area"
+        ],
+        "types": [
+            "fire"
         ]
     },
     {
@@ -4765,6 +5518,10 @@
             "stark-mountain-entrance",
             "stark-mountain-inside",
             "mt-ember-b3f"
+        ],
+        "types": [
+            "rock",
+            "fire"
         ]
     },
     {
@@ -4779,6 +5536,10 @@
             "ice-path-b3f",
             "icefall-cave-1f",
             "icefall-cave-b1f"
+        ],
+        "types": [
+            "ground",
+            "ice"
         ]
     },
     {
@@ -4793,6 +5554,10 @@
             "frost-cavern-unknown-area-315",
             "frost-cavern-unknown-area-316",
             "frost-cavern-unknown-area-317"
+        ],
+        "types": [
+            "ground",
+            "ice"
         ]
     },
     {
@@ -4814,6 +5579,10 @@
             "undella-town-area",
             "humilau-city-area",
             "kalos-route-12-area"
+        ],
+        "types": [
+            "rock",
+            "water"
         ]
     },
     {
@@ -4846,6 +5615,9 @@
             "shalour-city-area",
             "kalos-route-12-area",
             "azure-bay-area"
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -4868,6 +5640,9 @@
             "shalour-city-area",
             "kalos-route-12-area",
             "azure-bay-area"
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -4888,6 +5663,10 @@
             "giant-chasm-forest-cave",
             "unova-route-22-area",
             "kalos-route-17-area"
+        ],
+        "types": [
+            "flying",
+            "ice"
         ]
     },
     {
@@ -4900,6 +5679,10 @@
             "undella-bay-area",
             "undella-town-area",
             "unova-route-21-area"
+        ],
+        "types": [
+            "flying",
+            "water"
         ]
     },
     {
@@ -4912,6 +5695,10 @@
             "hoenn-route-113-area",
             "sevault-canyon-area",
             "reversal-mountain-unknown-area-48"
+        ],
+        "types": [
+            "flying",
+            "steel"
         ]
     },
     {
@@ -4925,6 +5712,10 @@
             "hoenn-altering-cave-d",
             "kanto-altering-cave-d",
             "kalos-route-10-area"
+        ],
+        "types": [
+            "fire",
+            "dark"
         ]
     },
     {
@@ -4933,6 +5724,10 @@
         "locations": [
             "sinnoh-route-214-area",
             "sinnoh-route-215-area"
+        ],
+        "types": [
+            "fire",
+            "dark"
         ]
     },
     {
@@ -4942,6 +5737,10 @@
             "p2-laboratory-area",
             "unova-route-18-area",
             "unova-route-17-area"
+        ],
+        "types": [
+            "dragon",
+            "water"
         ]
     },
     {
@@ -4957,6 +5756,9 @@
             "hoenn-safari-zone-neacro-bike-area",
             "canyon-entrance-area",
             "sevault-canyon-area"
+        ],
+        "types": [
+            "ground"
         ]
     },
     {
@@ -4975,6 +5777,9 @@
             "kanto-victory-road-1-1f",
             "kanto-victory-road-1-2f",
             "kanto-victory-road-1-3f"
+        ],
+        "types": [
+            "ground"
         ]
     },
     {
@@ -4982,6 +5787,9 @@
         "name": "porygon2",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -4995,6 +5803,9 @@
             "hoenn-altering-cave-h",
             "kanto-altering-cave-h",
             "abundant-shrine-area"
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -5008,6 +5819,9 @@
             "hoenn-altering-cave-i",
             "kanto-altering-cave-i",
             "kalos-route-7-area"
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -5016,6 +5830,9 @@
         "locations": [
             "sinnoh-route-208-area",
             "sinnoh-route-211-west-towards-eterna-city"
+        ],
+        "types": [
+            "fighting"
         ]
     },
     {
@@ -5023,6 +5840,9 @@
         "name": "hitmontop",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fighting"
         ]
     },
     {
@@ -5031,6 +5851,10 @@
         "locations": [
             "snowpoint-temple-1f",
             "lake-acuity-area"
+        ],
+        "types": [
+            "psychic",
+            "ice"
         ]
     },
     {
@@ -5041,6 +5865,9 @@
             "sinnoh-route-205-south-towards-floaroma-town",
             "virbank-complex-outer",
             "virbank-complex-inner"
+        ],
+        "types": [
+            "electric"
         ]
     },
     {
@@ -5053,6 +5880,9 @@
             "sinnoh-route-227-area",
             "virbank-complex-outer",
             "virbank-complex-inner"
+        ],
+        "types": [
+            "fire"
         ]
     },
     {
@@ -5066,6 +5896,9 @@
             "johto-route-47-area",
             "hoenn-safari-zone-expansion-north",
             "kalos-route-12-area"
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -5073,6 +5906,9 @@
         "name": "blissey",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -5080,6 +5916,9 @@
         "name": "raikou",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "electric"
         ]
     },
     {
@@ -5087,6 +5926,9 @@
         "name": "entei",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fire"
         ]
     },
     {
@@ -5094,6 +5936,9 @@
         "name": "suicune",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -5110,6 +5955,10 @@
             "mt-silver-3f",
             "mt-silver-top",
             "sevault-canyon-area"
+        ],
+        "types": [
+            "ground",
+            "rock"
         ]
     },
     {
@@ -5124,6 +5973,10 @@
             "terminus-cave-unknown-area-345",
             "terminus-cave-unknown-area-347",
             "terminus-cave-unknown-area-348"
+        ],
+        "types": [
+            "ground",
+            "rock"
         ]
     },
     {
@@ -5131,6 +5984,10 @@
         "name": "tyranitar",
         "locations": [
             "unova-route-15-area"
+        ],
+        "types": [
+            "dark",
+            "rock"
         ]
     },
     {
@@ -5138,6 +5995,10 @@
         "name": "lugia",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "flying",
+            "psychic"
         ]
     },
     {
@@ -5145,6 +6006,10 @@
         "name": "ho-oh",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "flying",
+            "fire"
         ]
     },
     {
@@ -5152,6 +6017,10 @@
         "name": "celebi",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "grass",
+            "psychic"
         ]
     },
     {
@@ -5159,6 +6028,9 @@
         "name": "treecko",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "grass"
         ]
     },
     {
@@ -5166,6 +6038,9 @@
         "name": "grovyle",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "grass"
         ]
     },
     {
@@ -5173,6 +6048,9 @@
         "name": "sceptile",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "grass"
         ]
     },
     {
@@ -5180,6 +6058,9 @@
         "name": "torchic",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fire"
         ]
     },
     {
@@ -5187,6 +6068,10 @@
         "name": "combusken",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fighting",
+            "fire"
         ]
     },
     {
@@ -5194,6 +6079,10 @@
         "name": "blaziken",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fighting",
+            "fire"
         ]
     },
     {
@@ -5201,6 +6090,9 @@
         "name": "mudkip",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -5208,6 +6100,10 @@
         "name": "marshtomp",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "ground",
+            "water"
         ]
     },
     {
@@ -5215,6 +6111,10 @@
         "name": "swampert",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "ground",
+            "water"
         ]
     },
     {
@@ -5234,6 +6134,9 @@
             "hoenn-route-120-area",
             "hoenn-route-121-area",
             "hoenn-route-123-area"
+        ],
+        "types": [
+            "dark"
         ]
     },
     {
@@ -5246,6 +6149,9 @@
             "hoenn-route-121-area",
             "hoenn-route-123-area",
             "kalos-route-15-area"
+        ],
+        "types": [
+            "dark"
         ]
     },
     {
@@ -5281,6 +6187,9 @@
             "hoenn-route-121-area",
             "hoenn-route-123-area",
             "kalos-route-2-area"
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -5316,6 +6225,9 @@
             "hoenn-route-120-area",
             "hoenn-route-121-area",
             "hoenn-route-123-area"
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -5330,6 +6242,9 @@
             "hoenn-route-101-area",
             "hoenn-route-102-area",
             "hoenn-route-104-area"
+        ],
+        "types": [
+            "bug"
         ]
     },
     {
@@ -5339,6 +6254,9 @@
             "eterna-forest-area",
             "sinnoh-route-205-east-towards-eterna-city",
             "petalburg-woods-area"
+        ],
+        "types": [
+            "bug"
         ]
     },
     {
@@ -5350,6 +6268,10 @@
             "sinnoh-route-224-area",
             "sinnoh-route-229-area",
             "sinnoh-sea-route-230-area"
+        ],
+        "types": [
+            "flying",
+            "bug"
         ]
     },
     {
@@ -5359,6 +6281,9 @@
             "eterna-forest-area",
             "sinnoh-route-205-east-towards-eterna-city",
             "petalburg-woods-area"
+        ],
+        "types": [
+            "bug"
         ]
     },
     {
@@ -5370,6 +6295,10 @@
             "sinnoh-route-224-area",
             "sinnoh-route-229-area",
             "sinnoh-sea-route-230-area"
+        ],
+        "types": [
+            "poison",
+            "bug"
         ]
     },
     {
@@ -5383,6 +6312,10 @@
             "sinnoh-route-212-east-towards-pastoria-city",
             "hoenn-route-102-area",
             "hoenn-route-114-area"
+        ],
+        "types": [
+            "grass",
+            "water"
         ]
     },
     {
@@ -5398,6 +6331,10 @@
             "kalos-route-21-area",
             "pokemon-village-area",
             "kalos-victory-road-unknown-area-327"
+        ],
+        "types": [
+            "grass",
+            "water"
         ]
     },
     {
@@ -5405,6 +6342,10 @@
         "name": "ludicolo",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "grass",
+            "water"
         ]
     },
     {
@@ -5420,6 +6361,9 @@
             "hoenn-route-114-area",
             "hoenn-route-117-area",
             "hoenn-route-120-area"
+        ],
+        "types": [
+            "grass"
         ]
     },
     {
@@ -5430,6 +6374,10 @@
             "sinnoh-route-229-area",
             "hoenn-route-114-area",
             "nature-sanctuary-area"
+        ],
+        "types": [
+            "dark",
+            "grass"
         ]
     },
     {
@@ -5437,6 +6385,10 @@
         "name": "shiftry",
         "locations": [
             "nature-sanctuary-area"
+        ],
+        "types": [
+            "dark",
+            "grass"
         ]
     },
     {
@@ -5447,6 +6399,10 @@
             "hoenn-route-104-area",
             "hoenn-route-115-area",
             "hoenn-route-116-area"
+        ],
+        "types": [
+            "flying",
+            "normal"
         ]
     },
     {
@@ -5457,6 +6413,10 @@
             "hoenn-route-115-area",
             "giant-chasm-outside",
             "unova-route-13-area"
+        ],
+        "types": [
+            "flying",
+            "normal"
         ]
     },
     {
@@ -5517,6 +6477,10 @@
             "undella-bay-area",
             "unova-route-13-area",
             "undella-town-area"
+        ],
+        "types": [
+            "flying",
+            "water"
         ]
     },
     {
@@ -5578,6 +6542,10 @@
             "unova-route-13-area",
             "undella-town-area",
             "unova-route-22-area"
+        ],
+        "types": [
+            "flying",
+            "water"
         ]
     },
     {
@@ -5592,6 +6560,10 @@
             "johto-route-34-area",
             "hoenn-route-102-area",
             "kalos-route-4-area"
+        ],
+        "types": [
+            "fairy",
+            "psychic"
         ]
     },
     {
@@ -5602,6 +6574,10 @@
             "sinnoh-route-204-south-towards-jubilife-city",
             "sinnoh-route-209-area",
             "sinnoh-route-212-north-towards-hearthome-city"
+        ],
+        "types": [
+            "fairy",
+            "psychic"
         ]
     },
     {
@@ -5609,6 +6585,10 @@
         "name": "gardevoir",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fairy",
+            "psychic"
         ]
     },
     {
@@ -5623,6 +6603,10 @@
             "hoenn-route-114-area",
             "hoenn-route-117-area",
             "hoenn-route-120-area"
+        ],
+        "types": [
+            "water",
+            "bug"
         ]
     },
     {
@@ -5631,6 +6615,10 @@
         "locations": [
             "sinnoh-route-229-area",
             "kalos-route-3-area"
+        ],
+        "types": [
+            "flying",
+            "bug"
         ]
     },
     {
@@ -5638,6 +6626,9 @@
         "name": "shroomish",
         "locations": [
             "petalburg-woods-area"
+        ],
+        "types": [
+            "grass"
         ]
     },
     {
@@ -5645,6 +6636,10 @@
         "name": "breloom",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fighting",
+            "grass"
         ]
     },
     {
@@ -5653,6 +6648,9 @@
         "locations": [
             "eterna-forest-area",
             "petalburg-woods-area"
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -5660,6 +6658,9 @@
         "name": "vigoroth",
         "locations": [
             "pinwheel-forest-inside"
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -5667,6 +6668,9 @@
         "name": "slaking",
         "locations": [
             "pinwheel-forest-inside"
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -5676,6 +6680,10 @@
             "eterna-forest-area",
             "hoenn-route-116-area",
             "kalos-route-6-area"
+        ],
+        "types": [
+            "ground",
+            "bug"
         ]
     },
     {
@@ -5683,6 +6691,10 @@
         "name": "ninjask",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "flying",
+            "bug"
         ]
     },
     {
@@ -5690,6 +6702,10 @@
         "name": "shedinja",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "ghost",
+            "bug"
         ]
     },
     {
@@ -5725,6 +6741,9 @@
             "hoenn-route-116-area",
             "desert-underpass-area",
             "connecting-cave-area"
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -5735,6 +6754,9 @@
             "mt-coronet-blizzard",
             "hoenn-victory-road-1f",
             "desert-underpass-area"
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -5742,6 +6764,9 @@
         "name": "exploud",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -5797,6 +6822,9 @@
             "granite-cave-b1f",
             "granite-cave-1fsmall-room",
             "hoenn-victory-road-1f"
+        ],
+        "types": [
+            "fighting"
         ]
     },
     {
@@ -5806,6 +6834,9 @@
             "hoenn-victory-road-1f",
             "hoenn-victory-road-b1f",
             "kalos-route-11-area"
+        ],
+        "types": [
+            "fighting"
         ]
     },
     {
@@ -5823,6 +6854,10 @@
             "unova-route-20-area",
             "kalos-route-3-area",
             "kalos-route-22-area"
+        ],
+        "types": [
+            "fairy",
+            "normal"
         ]
     },
     {
@@ -5852,6 +6887,9 @@
             "rocky-mountain-room-area",
             "glacier-room-area",
             "iron-room-area"
+        ],
+        "types": [
+            "rock"
         ]
     },
     {
@@ -5862,6 +6900,9 @@
             "hoenn-route-116-area",
             "castelia-city-area",
             "kalos-route-4-area"
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -5869,6 +6910,9 @@
         "name": "delcatty",
         "locations": [
             "castelia-city-area"
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -5898,6 +6942,10 @@
             "reflection-cave-unknown-area-306",
             "reflection-cave-unknown-area-307",
             "reflection-cave-unknown-area-308"
+        ],
+        "types": [
+            "ghost",
+            "dark"
         ]
     },
     {
@@ -5925,6 +6973,10 @@
             "challengers-cave-b1f",
             "challengers-cave-b2f",
             "glittering-cave-unknown-area-303"
+        ],
+        "types": [
+            "fairy",
+            "steel"
         ]
     },
     {
@@ -5938,6 +6990,10 @@
             "hoenn-victory-road-1f",
             "mistralton-cave-area",
             "guidance-chamber-area"
+        ],
+        "types": [
+            "rock",
+            "steel"
         ]
     },
     {
@@ -5958,6 +7014,10 @@
             "terminus-cave-unknown-area-345",
             "terminus-cave-unknown-area-347",
             "terminus-cave-unknown-area-348"
+        ],
+        "types": [
+            "rock",
+            "steel"
         ]
     },
     {
@@ -5965,6 +7025,10 @@
         "name": "aggron",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "rock",
+            "steel"
         ]
     },
     {
@@ -5998,6 +7062,10 @@
             "mt-pyre-outside",
             "hoenn-victory-road-b1f",
             "connecting-cave-area"
+        ],
+        "types": [
+            "psychic",
+            "fighting"
         ]
     },
     {
@@ -6023,6 +7091,10 @@
             "sinnoh-route-217-area",
             "hoenn-victory-road-b1f",
             "hoenn-victory-road-b2f"
+        ],
+        "types": [
+            "psychic",
+            "fighting"
         ]
     },
     {
@@ -6033,6 +7105,9 @@
             "hoenn-route-110-area",
             "hoenn-route-118-area",
             "kalos-route-10-area"
+        ],
+        "types": [
+            "electric"
         ]
     },
     {
@@ -6040,6 +7115,9 @@
         "name": "manectric",
         "locations": [
             "hoenn-route-118-area"
+        ],
+        "types": [
+            "electric"
         ]
     },
     {
@@ -6070,6 +7148,9 @@
             "kanto-route-2-north-towards-pewter-city",
             "hoenn-route-110-area",
             "kalos-route-5-area"
+        ],
+        "types": [
+            "electric"
         ]
     },
     {
@@ -6100,6 +7181,9 @@
             "kanto-route-2-north-towards-pewter-city",
             "hoenn-route-110-area",
             "kalos-route-5-area"
+        ],
+        "types": [
+            "electric"
         ]
     },
     {
@@ -6109,6 +7193,9 @@
             "sinnoh-route-229-area",
             "hoenn-route-117-area",
             "kalos-route-7-area"
+        ],
+        "types": [
+            "bug"
         ]
     },
     {
@@ -6118,6 +7205,9 @@
             "sinnoh-route-229-area",
             "hoenn-route-117-area",
             "kalos-route-7-area"
+        ],
+        "types": [
+            "bug"
         ]
     },
     {
@@ -6140,6 +7230,10 @@
             "lostlorn-forest-area",
             "unova-victory-road-2-unknown-area-72",
             "kalos-route-7-area"
+        ],
+        "types": [
+            "poison",
+            "grass"
         ]
     },
     {
@@ -6149,6 +7243,9 @@
             "kanto-route-3-area",
             "hoenn-route-110-area",
             "kalos-route-5-area"
+        ],
+        "types": [
+            "poison"
         ]
     },
     {
@@ -6156,6 +7253,9 @@
         "name": "swalot",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "poison"
         ]
     },
     {
@@ -6172,6 +7272,10 @@
             "hoenn-route-119-area",
             "village-bridge-area",
             "kalos-route-22-area"
+        ],
+        "types": [
+            "dark",
+            "water"
         ]
     },
     {
@@ -6197,6 +7301,10 @@
             "pacifidlog-town-area",
             "village-bridge-area",
             "kalos-route-22-area"
+        ],
+        "types": [
+            "dark",
+            "water"
         ]
     },
     {
@@ -6240,6 +7348,9 @@
             "ambrette-town-area",
             "cyllage-city-area",
             "kalos-route-8-area"
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -6250,6 +7361,9 @@
             "sinnoh-sea-route-230-area",
             "hoenn-route-129-area",
             "undella-bay-area"
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -6276,6 +7390,10 @@
             "reversal-mountain-unknown-area-58",
             "reversal-mountain-unknown-area-59",
             "reversal-mountain-unknown-area-60"
+        ],
+        "types": [
+            "ground",
+            "fire"
         ]
     },
     {
@@ -6299,6 +7417,10 @@
             "reversal-mountain-unknown-area-58",
             "reversal-mountain-unknown-area-59",
             "reversal-mountain-unknown-area-60"
+        ],
+        "types": [
+            "ground",
+            "fire"
         ]
     },
     {
@@ -6310,6 +7432,9 @@
             "fiery-path-area",
             "magma-hideout-area",
             "kalos-route-18-area"
+        ],
+        "types": [
+            "fire"
         ]
     },
     {
@@ -6334,6 +7459,9 @@
             "reversal-mountain-unknown-area-59",
             "reversal-mountain-unknown-area-60",
             "kalos-route-8-area"
+        ],
+        "types": [
+            "psychic"
         ]
     },
     {
@@ -6353,6 +7481,9 @@
             "reversal-mountain-unknown-area-58",
             "reversal-mountain-unknown-area-59",
             "reversal-mountain-unknown-area-60"
+        ],
+        "types": [
+            "psychic"
         ]
     },
     {
@@ -6375,6 +7506,9 @@
             "bell-tower-10f",
             "hoenn-route-113-area",
             "kalos-route-21-area"
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -6387,6 +7521,9 @@
             "desert-resort-area",
             "reversal-mountain-unknown-area-48",
             "kalos-route-13-area"
+        ],
+        "types": [
+            "ground"
         ]
     },
     {
@@ -6395,6 +7532,10 @@
         "locations": [
             "sinnoh-route-228-area",
             "reversal-mountain-unknown-area-48"
+        ],
+        "types": [
+            "dragon",
+            "ground"
         ]
     },
     {
@@ -6402,6 +7543,10 @@
         "name": "flygon",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "dragon",
+            "ground"
         ]
     },
     {
@@ -6410,6 +7555,9 @@
         "locations": [
             "sinnoh-route-228-area",
             "hoenn-route-111-area"
+        ],
+        "types": [
+            "grass"
         ]
     },
     {
@@ -6417,6 +7565,10 @@
         "name": "cacturne",
         "locations": [
             "sinnoh-route-228-area"
+        ],
+        "types": [
+            "dark",
+            "grass"
         ]
     },
     {
@@ -6430,6 +7582,10 @@
             "hoenn-route-115-area",
             "unova-route-14-area",
             "abundant-shrine-area"
+        ],
+        "types": [
+            "flying",
+            "normal"
         ]
     },
     {
@@ -6443,6 +7599,10 @@
             "unova-victory-road-2-unknown-area-79",
             "nature-sanctuary-area",
             "kalos-route-21-area"
+        ],
+        "types": [
+            "flying",
+            "dragon"
         ]
     },
     {
@@ -6456,6 +7616,9 @@
             "unova-route-7-area",
             "unova-route-11-area",
             "kalos-route-8-area"
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -6469,6 +7632,9 @@
             "unova-route-7-area",
             "unova-route-11-area",
             "kalos-route-8-area"
+        ],
+        "types": [
+            "poison"
         ]
     },
     {
@@ -6507,6 +7673,10 @@
             "unova-route-13-area",
             "unova-route-22-area",
             "glittering-cave-unknown-area-303"
+        ],
+        "types": [
+            "psychic",
+            "rock"
         ]
     },
     {
@@ -6545,6 +7715,10 @@
             "unova-route-13-area",
             "unova-route-22-area",
             "glittering-cave-unknown-area-303"
+        ],
+        "types": [
+            "psychic",
+            "rock"
         ]
     },
     {
@@ -6584,6 +7758,10 @@
             "moor-of-icirrus-area",
             "kalos-route-14-area",
             "kalos-route-19-area"
+        ],
+        "types": [
+            "ground",
+            "water"
         ]
     },
     {
@@ -6620,6 +7798,10 @@
             "moor-of-icirrus-area",
             "kalos-route-14-area",
             "kalos-route-19-area"
+        ],
+        "types": [
+            "ground",
+            "water"
         ]
     },
     {
@@ -6634,6 +7816,9 @@
             "unova-route-3-area",
             "kalos-route-3-area",
             "parfum-palace-area"
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -6645,6 +7830,10 @@
             "unova-route-3-area",
             "kalos-route-3-area",
             "parfum-palace-area"
+        ],
+        "types": [
+            "dark",
+            "water"
         ]
     },
     {
@@ -6655,6 +7844,10 @@
             "kanto-route-3-area",
             "hoenn-route-111-area",
             "relic-castle-d"
+        ],
+        "types": [
+            "psychic",
+            "ground"
         ]
     },
     {
@@ -6665,6 +7858,10 @@
             "sky-pillar-3f",
             "sky-pillar-5f",
             "relic-castle-d"
+        ],
+        "types": [
+            "psychic",
+            "ground"
         ]
     },
     {
@@ -6672,6 +7869,10 @@
         "name": "lileep",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "grass",
+            "rock"
         ]
     },
     {
@@ -6679,6 +7880,10 @@
         "name": "cradily",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "grass",
+            "rock"
         ]
     },
     {
@@ -6686,6 +7891,10 @@
         "name": "anorith",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "bug",
+            "rock"
         ]
     },
     {
@@ -6693,6 +7902,10 @@
         "name": "armaldo",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "bug",
+            "rock"
         ]
     },
     {
@@ -6700,6 +7913,9 @@
         "name": "feebas",
         "locations": [
             "unova-route-1-area"
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -6707,6 +7923,9 @@
         "name": "milotic",
         "locations": [
             "unova-route-1-area"
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -6714,6 +7933,9 @@
         "name": "castform",
         "locations": [
             "unova-route-6-area"
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -6728,6 +7950,9 @@
             "hoenn-route-123-area",
             "nature-sanctuary-area",
             "kalos-route-6-area"
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -6744,6 +7969,9 @@
             "mt-pyre-summit",
             "hoenn-route-121-area",
             "hoenn-route-123-area"
+        ],
+        "types": [
+            "ghost"
         ]
     },
     {
@@ -6761,6 +7989,9 @@
             "unova-victory-road-2-unknown-area-78",
             "strange-house-1f",
             "strange-house-b1f"
+        ],
+        "types": [
+            "ghost"
         ]
     },
     {
@@ -6787,6 +8018,9 @@
             "mt-pyre-summit",
             "hoenn-route-121-area",
             "hoenn-route-123-area"
+        ],
+        "types": [
+            "ghost"
         ]
     },
     {
@@ -6805,6 +8039,9 @@
             "sky-pillar-1f",
             "sky-pillar-3f",
             "sky-pillar-5f"
+        ],
+        "types": [
+            "ghost"
         ]
     },
     {
@@ -6816,6 +8053,10 @@
             "hoenn-route-119-area",
             "unova-route-14-area",
             "unova-route-18-area"
+        ],
+        "types": [
+            "flying",
+            "grass"
         ]
     },
     {
@@ -6833,6 +8074,9 @@
             "turnback-cave-after-pillar-3",
             "mt-pyre-summit",
             "abundant-shrine-area"
+        ],
+        "types": [
+            "psychic"
         ]
     },
     {
@@ -6891,6 +8135,9 @@
             "unova-route-13-area",
             "unova-route-14-area",
             "kalos-route-8-area"
+        ],
+        "types": [
+            "dark"
         ]
     },
     {
@@ -6898,6 +8145,9 @@
         "name": "wynaut",
         "locations": [
             "hoenn-route-130-area"
+        ],
+        "types": [
+            "psychic"
         ]
     },
     {
@@ -6909,6 +8159,9 @@
             "sinnoh-route-216-area",
             "sinnoh-route-217-area",
             "shoal-cave-b1f"
+        ],
+        "types": [
+            "ice"
         ]
     },
     {
@@ -6916,6 +8169,9 @@
         "name": "glalie",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "ice"
         ]
     },
     {
@@ -6927,6 +8183,10 @@
             "shoal-cave-area",
             "shoal-cave-b1f",
             "undella-bay-area"
+        ],
+        "types": [
+            "water",
+            "ice"
         ]
     },
     {
@@ -6936,6 +8196,10 @@
             "sinnoh-sea-route-226-area",
             "sinnoh-sea-route-230-area",
             "undella-bay-area"
+        ],
+        "types": [
+            "water",
+            "ice"
         ]
     },
     {
@@ -6943,6 +8207,10 @@
         "name": "walrein",
         "locations": [
             "undella-bay-area"
+        ],
+        "types": [
+            "water",
+            "ice"
         ]
     },
     {
@@ -6956,6 +8224,9 @@
             "hoenn-route-126-underwater",
             "unova-route-4-area",
             "kalos-route-12-area"
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -6964,6 +8235,9 @@
         "locations": [
             "unova-route-4-area",
             "kalos-route-12-area"
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -6972,6 +8246,9 @@
         "locations": [
             "unova-route-4-area",
             "kalos-route-12-area"
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -6985,6 +8262,10 @@
             "unova-route-4-area",
             "ambrette-town-area",
             "cyllage-city-area"
+        ],
+        "types": [
+            "rock",
+            "water"
         ]
     },
     {
@@ -7010,6 +8291,9 @@
             "kalos-route-8-area",
             "kalos-route-12-area",
             "azure-bay-area"
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -7019,6 +8303,9 @@
             "sinnoh-route-210-west-towards-celestic-town",
             "meteor-falls-backsmall-room",
             "kalos-route-8-area"
+        ],
+        "types": [
+            "dragon"
         ]
     },
     {
@@ -7026,6 +8313,9 @@
         "name": "shelgon",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "dragon"
         ]
     },
     {
@@ -7033,6 +8323,10 @@
         "name": "salamence",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "flying",
+            "dragon"
         ]
     },
     {
@@ -7040,6 +8334,10 @@
         "name": "beldum",
         "locations": [
             "sinnoh-route-228-area"
+        ],
+        "types": [
+            "psychic",
+            "steel"
         ]
     },
     {
@@ -7048,6 +8346,10 @@
         "locations": [
             "giant-chasm-forest",
             "giant-chasm-forest-cave"
+        ],
+        "types": [
+            "psychic",
+            "steel"
         ]
     },
     {
@@ -7056,6 +8358,10 @@
         "locations": [
             "giant-chasm-forest",
             "giant-chasm-forest-cave"
+        ],
+        "types": [
+            "psychic",
+            "steel"
         ]
     },
     {
@@ -7063,6 +8369,9 @@
         "name": "regirock",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "rock"
         ]
     },
     {
@@ -7070,6 +8379,9 @@
         "name": "regice",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "ice"
         ]
     },
     {
@@ -7077,6 +8389,9 @@
         "name": "registeel",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "steel"
         ]
     },
     {
@@ -7084,6 +8399,10 @@
         "name": "latias",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "psychic",
+            "dragon"
         ]
     },
     {
@@ -7091,6 +8410,10 @@
         "name": "latios",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "psychic",
+            "dragon"
         ]
     },
     {
@@ -7098,6 +8421,9 @@
         "name": "kyogre",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -7105,6 +8431,9 @@
         "name": "groudon",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "ground"
         ]
     },
     {
@@ -7112,6 +8441,10 @@
         "name": "rayquaza",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "flying",
+            "dragon"
         ]
     },
     {
@@ -7119,6 +8452,10 @@
         "name": "jirachi",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "psychic",
+            "steel"
         ]
     },
     {
@@ -7126,6 +8463,9 @@
         "name": "deoxys-normal",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "psychic"
         ]
     },
     {
@@ -7133,6 +8473,9 @@
         "name": "turtwig",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "grass"
         ]
     },
     {
@@ -7140,6 +8483,9 @@
         "name": "grotle",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "grass"
         ]
     },
     {
@@ -7147,6 +8493,10 @@
         "name": "torterra",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "ground",
+            "grass"
         ]
     },
     {
@@ -7154,6 +8504,9 @@
         "name": "chimchar",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fire"
         ]
     },
     {
@@ -7161,6 +8514,10 @@
         "name": "monferno",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fighting",
+            "fire"
         ]
     },
     {
@@ -7168,6 +8525,10 @@
         "name": "infernape",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fighting",
+            "fire"
         ]
     },
     {
@@ -7175,6 +8536,9 @@
         "name": "piplup",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -7182,6 +8546,9 @@
         "name": "prinplup",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -7189,6 +8556,10 @@
         "name": "empoleon",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "steel",
+            "water"
         ]
     },
     {
@@ -7210,6 +8581,10 @@
             "sinnoh-route-204-north-towards-floaroma-town",
             "sinnoh-route-209-area",
             "sinnoh-route-212-north-towards-hearthome-city"
+        ],
+        "types": [
+            "flying",
+            "normal"
         ]
     },
     {
@@ -7227,6 +8602,10 @@
             "sinnoh-route-212-north-towards-hearthome-city",
             "sinnoh-route-215-area",
             "kalos-route-11-area"
+        ],
+        "types": [
+            "flying",
+            "normal"
         ]
     },
     {
@@ -7234,6 +8613,10 @@
         "name": "staraptor",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "flying",
+            "normal"
         ]
     },
     {
@@ -7286,6 +8669,9 @@
             "kanto-route-25-area",
             "kalos-route-3-area",
             "kalos-route-22-area"
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -7310,6 +8696,10 @@
             "sinnoh-route-212-east-towards-pastoria-city",
             "village-bridge-area",
             "kalos-route-22-area"
+        ],
+        "types": [
+            "water",
+            "normal"
         ]
     },
     {
@@ -7326,6 +8716,9 @@
             "sinnoh-route-206-area",
             "sinnoh-route-207-area",
             "viridian-forest-area"
+        ],
+        "types": [
+            "bug"
         ]
     },
     {
@@ -7342,6 +8735,9 @@
             "sinnoh-route-215-area",
             "dreamyard-area",
             "dreamyard-b1f"
+        ],
+        "types": [
+            "bug"
         ]
     },
     {
@@ -7376,6 +8772,9 @@
             "kanto-route-17-area",
             "kanto-route-18-area",
             "kanto-route-2-north-towards-pewter-city"
+        ],
+        "types": [
+            "electric"
         ]
     },
     {
@@ -7384,6 +8783,9 @@
         "locations": [
             "fuego-ironworks-area",
             "sinnoh-route-222-area"
+        ],
+        "types": [
+            "electric"
         ]
     },
     {
@@ -7391,6 +8793,9 @@
         "name": "luxray",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "electric"
         ]
     },
     {
@@ -7412,6 +8817,10 @@
             "ilex-forest-area",
             "viridian-forest-area",
             "kalos-route-4-area"
+        ],
+        "types": [
+            "poison",
+            "grass"
         ]
     },
     {
@@ -7421,6 +8830,10 @@
             "unova-route-12-area",
             "lostlorn-forest-area",
             "unova-victory-road-2-unknown-area-72"
+        ],
+        "types": [
+            "poison",
+            "grass"
         ]
     },
     {
@@ -7428,6 +8841,9 @@
         "name": "cranidos",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "rock"
         ]
     },
     {
@@ -7435,6 +8851,9 @@
         "name": "rampardos",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "rock"
         ]
     },
     {
@@ -7442,6 +8861,10 @@
         "name": "shieldon",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "steel",
+            "rock"
         ]
     },
     {
@@ -7449,6 +8872,10 @@
         "name": "bastiodon",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "steel",
+            "rock"
         ]
     },
     {
@@ -7456,6 +8883,9 @@
         "name": "burmy",
         "locations": [
             "kalos-route-3-area"
+        ],
+        "types": [
+            "bug"
         ]
     },
     {
@@ -7463,6 +8893,10 @@
         "name": "wormadam-plant",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "grass",
+            "bug"
         ]
     },
     {
@@ -7470,6 +8904,10 @@
         "name": "mothim",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "flying",
+            "bug"
         ]
     },
     {
@@ -7479,6 +8917,10 @@
             "unova-route-12-area",
             "lostlorn-forest-area",
             "kalos-route-4-area"
+        ],
+        "types": [
+            "flying",
+            "bug"
         ]
     },
     {
@@ -7487,6 +8929,10 @@
         "locations": [
             "unova-route-12-area",
             "lostlorn-forest-area"
+        ],
+        "types": [
+            "flying",
+            "bug"
         ]
     },
     {
@@ -7498,6 +8944,9 @@
             "sinnoh-route-205-south-towards-floaroma-town",
             "sinnoh-route-205-east-towards-eterna-city",
             "kalos-route-12-area"
+        ],
+        "types": [
+            "electric"
         ]
     },
     {
@@ -7541,6 +8990,9 @@
             "unova-victory-road-2-unknown-area-79",
             "nature-sanctuary-area",
             "unova-route-23-area"
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -7574,6 +9026,9 @@
             "kalos-victory-road-unknown-area-322",
             "kalos-victory-road-unknown-area-327",
             "kalos-victory-road-unknown-area-328"
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -7581,6 +9036,9 @@
         "name": "cherubi",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "grass"
         ]
     },
     {
@@ -7588,6 +9046,9 @@
         "name": "cherrim",
         "locations": [
             "unova-route-12-area"
+        ],
+        "types": [
+            "grass"
         ]
     },
     {
@@ -7605,6 +9066,9 @@
             "sinnoh-route-218-area",
             "sinnoh-route-221-area",
             "sinnoh-route-224-area"
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -7623,6 +9087,10 @@
             "sinnoh-route-222-area",
             "sinnoh-route-224-area",
             "sinnoh-sea-route-230-area"
+        ],
+        "types": [
+            "ground",
+            "water"
         ]
     },
     {
@@ -7630,6 +9098,9 @@
         "name": "ambipom",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -7637,6 +9108,10 @@
         "name": "drifloon",
         "locations": [
             "kalos-route-8-area"
+        ],
+        "types": [
+            "flying",
+            "ghost"
         ]
     },
     {
@@ -7647,6 +9122,10 @@
             "unova-route-13-area",
             "unova-route-14-area",
             "reversal-mountain-unknown-area-48"
+        ],
+        "types": [
+            "flying",
+            "ghost"
         ]
     },
     {
@@ -7656,6 +9135,9 @@
             "eterna-forest-area",
             "kanto-route-25-area",
             "castelia-city-area"
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -7663,6 +9145,9 @@
         "name": "lopunny",
         "locations": [
             "castelia-city-area"
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -7670,6 +9155,9 @@
         "name": "mismagius",
         "locations": [
             "abundant-shrine-area"
+        ],
+        "types": [
+            "ghost"
         ]
     },
     {
@@ -7677,6 +9165,10 @@
         "name": "honchkrow",
         "locations": [
             "abundant-shrine-area"
+        ],
+        "types": [
+            "flying",
+            "dark"
         ]
     },
     {
@@ -7685,6 +9177,9 @@
         "locations": [
             "sinnoh-route-218-area",
             "sinnoh-route-222-area"
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -7693,6 +9188,9 @@
         "locations": [
             "sinnoh-route-222-area",
             "sinnoh-route-229-area"
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -7768,6 +9266,9 @@
             "reflection-cave-unknown-area-306",
             "reflection-cave-unknown-area-307",
             "reflection-cave-unknown-area-308"
+        ],
+        "types": [
+            "psychic"
         ]
     },
     {
@@ -7778,6 +9279,10 @@
             "sinnoh-route-214-area",
             "sinnoh-route-221-area",
             "kalos-route-11-area"
+        ],
+        "types": [
+            "dark",
+            "poison"
         ]
     },
     {
@@ -7786,6 +9291,10 @@
         "locations": [
             "sinnoh-route-221-area",
             "sinnoh-route-225-area"
+        ],
+        "types": [
+            "dark",
+            "poison"
         ]
     },
     {
@@ -7855,6 +9364,10 @@
             "cerulean-cave-2f",
             "cerulean-cave-b1f",
             "abundant-shrine-area"
+        ],
+        "types": [
+            "psychic",
+            "steel"
         ]
     },
     {
@@ -7878,6 +9391,10 @@
             "turnback-cave-between-pillars-2-and-3",
             "turnback-cave-after-pillar-3",
             "abundant-shrine-area"
+        ],
+        "types": [
+            "psychic",
+            "steel"
         ]
     },
     {
@@ -7886,6 +9403,9 @@
         "locations": [
             "sinnoh-route-209-area",
             "sinnoh-route-210-south-towards-solaceon-town"
+        ],
+        "types": [
+            "rock"
         ]
     },
     {
@@ -7894,6 +9414,10 @@
         "locations": [
             "sinnoh-route-209-area",
             "sinnoh-route-210-south-towards-solaceon-town"
+        ],
+        "types": [
+            "fairy",
+            "psychic"
         ]
     },
     {
@@ -7901,6 +9425,9 @@
         "name": "happiny",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -7926,6 +9453,10 @@
             "bell-tower-10f",
             "kalos-route-12-area",
             "azure-bay-area"
+        ],
+        "types": [
+            "flying",
+            "normal"
         ]
     },
     {
@@ -7933,6 +9464,10 @@
         "name": "spiritomb",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "dark",
+            "ghost"
         ]
     },
     {
@@ -7941,6 +9476,10 @@
         "locations": [
             "wayward-cave-b1f",
             "kalos-route-13-area"
+        ],
+        "types": [
+            "ground",
+            "dragon"
         ]
     },
     {
@@ -7953,6 +9492,10 @@
             "sinnoh-victory-road-inside-b1f",
             "sinnoh-victory-road-inside",
             "sinnoh-victory-road-inside-exit"
+        ],
+        "types": [
+            "ground",
+            "dragon"
         ]
     },
     {
@@ -7960,6 +9503,10 @@
         "name": "garchomp",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "ground",
+            "dragon"
         ]
     },
     {
@@ -7967,6 +9514,9 @@
         "name": "munchlax",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -7977,6 +9527,9 @@
             "challengers-cave-b2f",
             "floccesy-ranch-inner",
             "kalos-route-22-area"
+        ],
+        "types": [
+            "fighting"
         ]
     },
     {
@@ -7984,6 +9537,10 @@
         "name": "lucario",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "steel",
+            "fighting"
         ]
     },
     {
@@ -7994,6 +9551,9 @@
             "ruin-maniac-cave-10-25-different-unown-caught",
             "maniac-tunnel-26-plus-different-unown-caught",
             "kalos-route-9-area"
+        ],
+        "types": [
+            "ground"
         ]
     },
     {
@@ -8001,6 +9561,9 @@
         "name": "hippowdon",
         "locations": [
             "sinnoh-route-228-area"
+        ],
+        "types": [
+            "ground"
         ]
     },
     {
@@ -8023,6 +9586,10 @@
             "kalos-route-14-area",
             "kalos-route-15-area",
             "kalos-route-16-area"
+        ],
+        "types": [
+            "bug",
+            "poison"
         ]
     },
     {
@@ -8030,6 +9597,10 @@
         "name": "drapion",
         "locations": [
             "kalos-route-19-area"
+        ],
+        "types": [
+            "dark",
+            "poison"
         ]
     },
     {
@@ -8041,6 +9612,10 @@
             "unova-route-8-area",
             "moor-of-icirrus-area",
             "kalos-route-7-area"
+        ],
+        "types": [
+            "fighting",
+            "poison"
         ]
     },
     {
@@ -8048,6 +9623,10 @@
         "name": "toxicroak",
         "locations": [
             "pinwheel-forest-outside"
+        ],
+        "types": [
+            "fighting",
+            "poison"
         ]
     },
     {
@@ -8059,6 +9638,9 @@
             "unova-route-18-area",
             "kalos-route-14-area",
             "kalos-route-19-area"
+        ],
+        "types": [
+            "grass"
         ]
     },
     {
@@ -8080,6 +9662,9 @@
             "unova-route-17-area",
             "virbank-city-area",
             "virbank-complex-outer"
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -8101,6 +9686,9 @@
             "unova-route-17-area",
             "virbank-city-area",
             "virbank-complex-outer"
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -8115,6 +9703,10 @@
             "shalour-city-area",
             "kalos-route-12-area",
             "azure-bay-area"
+        ],
+        "types": [
+            "flying",
+            "water"
         ]
     },
     {
@@ -8128,6 +9720,10 @@
             "sinnoh-route-216-area",
             "sinnoh-route-217-area",
             "kalos-route-17-area"
+        ],
+        "types": [
+            "ice",
+            "grass"
         ]
     },
     {
@@ -8137,6 +9733,10 @@
             "mt-coronet-snowfall",
             "mt-coronet-blizzard",
             "kalos-route-17-area"
+        ],
+        "types": [
+            "ice",
+            "grass"
         ]
     },
     {
@@ -8144,6 +9744,10 @@
         "name": "weavile",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "ice",
+            "dark"
         ]
     },
     {
@@ -8151,6 +9755,10 @@
         "name": "magnezone",
         "locations": [
             "p2-laboratory-area"
+        ],
+        "types": [
+            "steel",
+            "electric"
         ]
     },
     {
@@ -8158,6 +9766,9 @@
         "name": "lickilicky",
         "locations": [
             "unova-route-2-area"
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -8165,6 +9776,10 @@
         "name": "rhyperior",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "rock",
+            "ground"
         ]
     },
     {
@@ -8173,6 +9788,9 @@
         "locations": [
             "giant-chasm-outside",
             "unova-route-13-area"
+        ],
+        "types": [
+            "grass"
         ]
     },
     {
@@ -8180,6 +9798,9 @@
         "name": "electivire",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "electric"
         ]
     },
     {
@@ -8187,6 +9808,9 @@
         "name": "magmortar",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fire"
         ]
     },
     {
@@ -8194,6 +9818,10 @@
         "name": "togekiss",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "flying",
+            "fairy"
         ]
     },
     {
@@ -8202,6 +9830,10 @@
         "locations": [
             "pinwheel-forest-outside",
             "unova-route-3-area"
+        ],
+        "types": [
+            "flying",
+            "bug"
         ]
     },
     {
@@ -8209,6 +9841,9 @@
         "name": "leafeon",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "grass"
         ]
     },
     {
@@ -8216,6 +9851,9 @@
         "name": "glaceon",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "ice"
         ]
     },
     {
@@ -8225,6 +9863,10 @@
             "unova-route-11-area",
             "unova-route-15-area",
             "unova-route-23-area"
+        ],
+        "types": [
+            "flying",
+            "ground"
         ]
     },
     {
@@ -8233,6 +9875,10 @@
         "locations": [
             "giant-chasm-forest",
             "giant-chasm-forest-cave"
+        ],
+        "types": [
+            "ground",
+            "ice"
         ]
     },
     {
@@ -8240,6 +9886,9 @@
         "name": "porygon-z",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -8247,6 +9896,10 @@
         "name": "gallade",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fighting",
+            "psychic"
         ]
     },
     {
@@ -8254,6 +9907,10 @@
         "name": "probopass",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "steel",
+            "rock"
         ]
     },
     {
@@ -8261,6 +9918,9 @@
         "name": "dusknoir",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "ghost"
         ]
     },
     {
@@ -8268,6 +9928,10 @@
         "name": "froslass",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "ghost",
+            "ice"
         ]
     },
     {
@@ -8275,6 +9939,10 @@
         "name": "rotom",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "ghost",
+            "electric"
         ]
     },
     {
@@ -8282,6 +9950,9 @@
         "name": "uxie",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "psychic"
         ]
     },
     {
@@ -8289,6 +9960,9 @@
         "name": "mesprit",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "psychic"
         ]
     },
     {
@@ -8296,6 +9970,9 @@
         "name": "azelf",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "psychic"
         ]
     },
     {
@@ -8303,6 +9980,10 @@
         "name": "dialga",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "dragon",
+            "steel"
         ]
     },
     {
@@ -8310,6 +9991,10 @@
         "name": "palkia",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "dragon",
+            "water"
         ]
     },
     {
@@ -8317,6 +10002,10 @@
         "name": "heatran",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "steel",
+            "fire"
         ]
     },
     {
@@ -8324,6 +10013,9 @@
         "name": "regigigas",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -8331,6 +10023,10 @@
         "name": "giratina-altered",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "dragon",
+            "ghost"
         ]
     },
     {
@@ -8338,6 +10034,9 @@
         "name": "cresselia",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "psychic"
         ]
     },
     {
@@ -8345,6 +10044,9 @@
         "name": "phione",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -8352,6 +10054,9 @@
         "name": "manaphy",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -8359,6 +10064,9 @@
         "name": "darkrai",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "dark"
         ]
     },
     {
@@ -8366,6 +10074,9 @@
         "name": "shaymin-land",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "grass"
         ]
     },
     {
@@ -8373,6 +10084,9 @@
         "name": "arceus",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -8380,6 +10094,10 @@
         "name": "victini",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fire",
+            "psychic"
         ]
     },
     {
@@ -8387,6 +10105,9 @@
         "name": "snivy",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "grass"
         ]
     },
     {
@@ -8394,6 +10115,9 @@
         "name": "servine",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "grass"
         ]
     },
     {
@@ -8401,6 +10125,9 @@
         "name": "serperior",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "grass"
         ]
     },
     {
@@ -8408,6 +10135,9 @@
         "name": "tepig",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fire"
         ]
     },
     {
@@ -8415,6 +10145,10 @@
         "name": "pignite",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fighting",
+            "fire"
         ]
     },
     {
@@ -8422,6 +10156,10 @@
         "name": "emboar",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fighting",
+            "fire"
         ]
     },
     {
@@ -8429,6 +10167,9 @@
         "name": "oshawott",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -8436,6 +10177,9 @@
         "name": "dewott",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -8443,6 +10187,9 @@
         "name": "samurott",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -8458,6 +10205,9 @@
             "virbank-complex-inner",
             "unova-route-19-area",
             "unova-route-20-area"
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -8474,6 +10224,9 @@
             "unova-route-15-area",
             "unova-route-18-area",
             "kalos-route-15-area"
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -8484,6 +10237,9 @@
             "unova-route-2-area",
             "unova-route-3-area",
             "floccesy-ranch-inner"
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -8497,6 +10253,9 @@
             "unova-route-3-area",
             "unova-route-10-area",
             "unova-route-10-victory-road-gate"
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -8510,6 +10269,9 @@
             "unova-route-3-area",
             "unova-route-10-area",
             "unova-route-10-victory-road-gate"
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -8521,6 +10283,9 @@
             "unova-route-3-area",
             "unova-route-19-area",
             "unova-route-20-area"
+        ],
+        "types": [
+            "dark"
         ]
     },
     {
@@ -8534,6 +10299,9 @@
             "unova-route-9-area",
             "unova-route-16-area",
             "kalos-route-15-area"
+        ],
+        "types": [
+            "dark"
         ]
     },
     {
@@ -8543,6 +10311,9 @@
             "pinwheel-forest-inside",
             "lostlorn-forest-area",
             "santalune-forest-area"
+        ],
+        "types": [
+            "grass"
         ]
     },
     {
@@ -8550,6 +10321,9 @@
         "name": "simisage",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "grass"
         ]
     },
     {
@@ -8559,6 +10333,9 @@
             "pinwheel-forest-inside",
             "lostlorn-forest-area",
             "santalune-forest-area"
+        ],
+        "types": [
+            "fire"
         ]
     },
     {
@@ -8566,6 +10343,9 @@
         "name": "simisear",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fire"
         ]
     },
     {
@@ -8575,6 +10355,9 @@
             "pinwheel-forest-inside",
             "lostlorn-forest-area",
             "santalune-forest-area"
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -8582,6 +10365,9 @@
         "name": "simipour",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -8590,6 +10376,9 @@
         "locations": [
             "dreamyard-area",
             "dreamyard-b1f"
+        ],
+        "types": [
+            "psychic"
         ]
     },
     {
@@ -8597,6 +10386,9 @@
         "name": "musharna",
         "locations": [
             "dreamyard-area"
+        ],
+        "types": [
+            "psychic"
         ]
     },
     {
@@ -8610,6 +10402,10 @@
             "floccesy-ranch-inner",
             "virbank-complex-outer",
             "unova-route-20-area"
+        ],
+        "types": [
+            "flying",
+            "normal"
         ]
     },
     {
@@ -8626,6 +10422,10 @@
             "lostlorn-forest-area",
             "unova-victory-road-2-unknown-area-73",
             "unova-victory-road-2-unknown-area-79"
+        ],
+        "types": [
+            "flying",
+            "normal"
         ]
     },
     {
@@ -8641,6 +10441,10 @@
             "lostlorn-forest-area",
             "unova-victory-road-2-unknown-area-73",
             "unova-victory-road-2-unknown-area-79"
+        ],
+        "types": [
+            "flying",
+            "normal"
         ]
     },
     {
@@ -8648,6 +10452,9 @@
         "name": "blitzle",
         "locations": [
             "unova-route-3-area"
+        ],
+        "types": [
+            "electric"
         ]
     },
     {
@@ -8656,6 +10463,9 @@
         "locations": [
             "unova-route-3-area",
             "unova-route-7-area"
+        ],
+        "types": [
+            "electric"
         ]
     },
     {
@@ -8668,6 +10478,9 @@
             "reflection-cave-unknown-area-306",
             "reflection-cave-unknown-area-307",
             "reflection-cave-unknown-area-308"
+        ],
+        "types": [
+            "rock"
         ]
     },
     {
@@ -8725,6 +10538,9 @@
             "iron-room-area",
             "seaside-cave-1f",
             "seaside-cave-b1f"
+        ],
+        "types": [
+            "rock"
         ]
     },
     {
@@ -8732,6 +10548,9 @@
         "name": "gigalith",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "rock"
         ]
     },
     {
@@ -8782,6 +10601,10 @@
             "iron-room-area",
             "seaside-cave-1f",
             "seaside-cave-b1f"
+        ],
+        "types": [
+            "flying",
+            "psychic"
         ]
     },
     {
@@ -8789,6 +10612,10 @@
         "name": "swoobat",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "flying",
+            "psychic"
         ]
     },
     {
@@ -8805,6 +10632,9 @@
             "relic-passage-castelia-sewers-entrance",
             "relic-passage-relic-castle-entrance",
             "relic-passage-pwt-entrance"
+        ],
+        "types": [
+            "ground"
         ]
     },
     {
@@ -8857,6 +10687,10 @@
             "iron-room-area",
             "seaside-cave-1f",
             "seaside-cave-b1f"
+        ],
+        "types": [
+            "steel",
+            "ground"
         ]
     },
     {
@@ -8905,6 +10739,9 @@
             "route-20-area",
             "route-22-area",
             "route-23-area"
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -8914,6 +10751,9 @@
             "pinwheel-forest-outside",
             "cold-storage-area",
             "relic-passage-castelia-sewers-entrance"
+        ],
+        "types": [
+            "fighting"
         ]
     },
     {
@@ -8930,6 +10770,9 @@
             "kalos-victory-road-unknown-area-324",
             "kalos-victory-road-unknown-area-326",
             "kalos-victory-road-unknown-area-328"
+        ],
+        "types": [
+            "fighting"
         ]
     },
     {
@@ -8937,6 +10780,9 @@
         "name": "conkeldurr",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fighting"
         ]
     },
     {
@@ -8944,6 +10790,9 @@
         "name": "tympole",
         "locations": [
             "pinwheel-forest-outside"
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -8954,6 +10803,10 @@
             "pinwheel-forest-outside",
             "unova-route-8-area",
             "moor-of-icirrus-area"
+        ],
+        "types": [
+            "ground",
+            "water"
         ]
     },
     {
@@ -8964,6 +10817,10 @@
             "pinwheel-forest-outside",
             "unova-route-8-area",
             "moor-of-icirrus-area"
+        ],
+        "types": [
+            "ground",
+            "water"
         ]
     },
     {
@@ -8978,6 +10835,9 @@
             "unova-victory-road-2-unknown-area-76",
             "unova-route-23-area",
             "kalos-route-11-area"
+        ],
+        "types": [
+            "fighting"
         ]
     },
     {
@@ -8992,6 +10852,9 @@
             "unova-victory-road-2-unknown-area-76",
             "unova-route-23-area",
             "kalos-route-11-area"
+        ],
+        "types": [
+            "fighting"
         ]
     },
     {
@@ -9001,6 +10864,10 @@
             "pinwheel-forest-inside",
             "unova-route-12-area",
             "unova-route-20-area"
+        ],
+        "types": [
+            "grass",
+            "bug"
         ]
     },
     {
@@ -9010,6 +10877,10 @@
             "pinwheel-forest-inside",
             "unova-route-6-area",
             "lostlorn-forest-area"
+        ],
+        "types": [
+            "grass",
+            "bug"
         ]
     },
     {
@@ -9019,6 +10890,10 @@
             "unova-route-6-area",
             "unova-route-12-area",
             "lostlorn-forest-area"
+        ],
+        "types": [
+            "grass",
+            "bug"
         ]
     },
     {
@@ -9028,6 +10903,10 @@
             "pinwheel-forest-inside",
             "lostlorn-forest-area",
             "unova-route-20-area"
+        ],
+        "types": [
+            "poison",
+            "bug"
         ]
     },
     {
@@ -9036,6 +10915,10 @@
         "locations": [
             "pinwheel-forest-inside",
             "lostlorn-forest-area"
+        ],
+        "types": [
+            "poison",
+            "bug"
         ]
     },
     {
@@ -9043,6 +10926,10 @@
         "name": "scolipede",
         "locations": [
             "pinwheel-forest-inside"
+        ],
+        "types": [
+            "poison",
+            "bug"
         ]
     },
     {
@@ -9054,6 +10941,10 @@
             "lostlorn-forest-area",
             "castelia-city-area",
             "unova-victory-road-2-unknown-area-72"
+        ],
+        "types": [
+            "fairy",
+            "grass"
         ]
     },
     {
@@ -9065,6 +10956,10 @@
             "lostlorn-forest-area",
             "castelia-city-area",
             "unova-victory-road-2-unknown-area-72"
+        ],
+        "types": [
+            "fairy",
+            "grass"
         ]
     },
     {
@@ -9076,6 +10971,9 @@
             "lostlorn-forest-area",
             "castelia-city-area",
             "unova-victory-road-2-unknown-area-72"
+        ],
+        "types": [
+            "grass"
         ]
     },
     {
@@ -9087,6 +10985,9 @@
             "lostlorn-forest-area",
             "castelia-city-area",
             "unova-victory-road-2-unknown-area-72"
+        ],
+        "types": [
+            "grass"
         ]
     },
     {
@@ -9139,6 +11040,9 @@
             "kalos-victory-road-unknown-area-322",
             "kalos-victory-road-unknown-area-327",
             "kalos-victory-road-unknown-area-328"
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -9151,6 +11055,10 @@
             "relic-castle-c",
             "unova-route-4-area",
             "kalos-route-9-area"
+        ],
+        "types": [
+            "dark",
+            "ground"
         ]
     },
     {
@@ -9159,6 +11067,10 @@
         "locations": [
             "relic-castle-b",
             "relic-castle-c"
+        ],
+        "types": [
+            "dark",
+            "ground"
         ]
     },
     {
@@ -9166,6 +11078,10 @@
         "name": "krookodile",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "dark",
+            "ground"
         ]
     },
     {
@@ -9175,6 +11091,9 @@
             "desert-resort-entrance",
             "desert-resort-area",
             "unova-route-4-area"
+        ],
+        "types": [
+            "fire"
         ]
     },
     {
@@ -9182,6 +11101,9 @@
         "name": "darmanitan-standard",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fire"
         ]
     },
     {
@@ -9190,6 +11112,9 @@
         "locations": [
             "desert-resort-entrance",
             "desert-resort-area"
+        ],
+        "types": [
+            "grass"
         ]
     },
     {
@@ -9205,6 +11130,10 @@
             "kalos-route-12-area",
             "glittering-cave-unknown-area-304",
             "azure-bay-area"
+        ],
+        "types": [
+            "rock",
+            "bug"
         ]
     },
     {
@@ -9212,6 +11141,10 @@
         "name": "crustle",
         "locations": [
             "unova-route-18-area"
+        ],
+        "types": [
+            "rock",
+            "bug"
         ]
     },
     {
@@ -9223,6 +11156,10 @@
             "unova-route-1-area",
             "unova-route-4-area",
             "unova-route-18-area"
+        ],
+        "types": [
+            "fighting",
+            "dark"
         ]
     },
     {
@@ -9233,6 +11170,10 @@
             "unova-route-1-area",
             "unova-route-15-area",
             "unova-route-18-area"
+        ],
+        "types": [
+            "fighting",
+            "dark"
         ]
     },
     {
@@ -9241,6 +11182,10 @@
         "locations": [
             "desert-resort-area",
             "kalos-route-10-area"
+        ],
+        "types": [
+            "flying",
+            "psychic"
         ]
     },
     {
@@ -9249,6 +11194,9 @@
         "locations": [
             "relic-castle-a",
             "relic-castle-c"
+        ],
+        "types": [
+            "ghost"
         ]
     },
     {
@@ -9257,6 +11205,9 @@
         "locations": [
             "relic-castle-b",
             "relic-castle-c"
+        ],
+        "types": [
+            "ghost"
         ]
     },
     {
@@ -9264,6 +11215,10 @@
         "name": "tirtouga",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "rock",
+            "water"
         ]
     },
     {
@@ -9271,6 +11226,10 @@
         "name": "carracosta",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "rock",
+            "water"
         ]
     },
     {
@@ -9278,6 +11237,10 @@
         "name": "archen",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "flying",
+            "rock"
         ]
     },
     {
@@ -9285,6 +11248,10 @@
         "name": "archeops",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "flying",
+            "rock"
         ]
     },
     {
@@ -9294,6 +11261,9 @@
             "unova-route-4-area",
             "unova-route-5-area",
             "unova-route-16-area"
+        ],
+        "types": [
+            "poison"
         ]
     },
     {
@@ -9301,6 +11271,9 @@
         "name": "garbodor",
         "locations": [
             "unova-route-9-area"
+        ],
+        "types": [
+            "poison"
         ]
     },
     {
@@ -9308,6 +11281,9 @@
         "name": "zorua",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "dark"
         ]
     },
     {
@@ -9316,6 +11292,9 @@
         "locations": [
             "kalos-route-20-area",
             "pokemon-village-area"
+        ],
+        "types": [
+            "dark"
         ]
     },
     {
@@ -9327,6 +11306,9 @@
             "unova-route-5-area",
             "unova-route-9-area",
             "unova-route-16-area"
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -9337,6 +11319,9 @@
             "unova-route-5-area",
             "unova-route-9-area",
             "unova-route-16-area"
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -9347,6 +11332,9 @@
             "unova-route-16-area",
             "strange-house-1f",
             "strange-house-b1f"
+        ],
+        "types": [
+            "psychic"
         ]
     },
     {
@@ -9358,6 +11346,9 @@
             "strange-house-b1f",
             "kalos-route-20-area",
             "pokemon-village-area"
+        ],
+        "types": [
+            "psychic"
         ]
     },
     {
@@ -9365,6 +11356,9 @@
         "name": "gothitelle",
         "locations": [
             "unova-route-9-area"
+        ],
+        "types": [
+            "psychic"
         ]
     },
     {
@@ -9379,6 +11373,9 @@
             "reflection-cave-unknown-area-306",
             "reflection-cave-unknown-area-307",
             "reflection-cave-unknown-area-308"
+        ],
+        "types": [
+            "psychic"
         ]
     },
     {
@@ -9388,6 +11385,9 @@
             "unova-route-9-area",
             "strange-house-1f",
             "strange-house-b1f"
+        ],
+        "types": [
+            "psychic"
         ]
     },
     {
@@ -9395,6 +11395,9 @@
         "name": "reuniclus",
         "locations": [
             "unova-route-9-area"
+        ],
+        "types": [
+            "psychic"
         ]
     },
     {
@@ -9403,6 +11406,10 @@
         "locations": [
             "driftveil-drawbridge-area",
             "kalos-route-7-area"
+        ],
+        "types": [
+            "flying",
+            "water"
         ]
     },
     {
@@ -9410,6 +11417,10 @@
         "name": "swanna",
         "locations": [
             "marvelous-bridge-area"
+        ],
+        "types": [
+            "flying",
+            "water"
         ]
     },
     {
@@ -9420,6 +11431,9 @@
             "dragonspiral-tower-entrance",
             "dragonspiral-tower-outside",
             "unova-route-6-area"
+        ],
+        "types": [
+            "ice"
         ]
     },
     {
@@ -9430,6 +11444,9 @@
             "dragonspiral-tower-outside",
             "giant-chasm-outside",
             "giant-chasm-area"
+        ],
+        "types": [
+            "ice"
         ]
     },
     {
@@ -9439,6 +11456,9 @@
             "dragonspiral-tower-entrance",
             "dragonspiral-tower-outside",
             "giant-chasm-outside"
+        ],
+        "types": [
+            "ice"
         ]
     },
     {
@@ -9449,6 +11469,10 @@
             "dragonspiral-tower-outside",
             "unova-route-6-area",
             "unova-route-7-area"
+        ],
+        "types": [
+            "grass",
+            "normal"
         ]
     },
     {
@@ -9457,6 +11481,10 @@
         "locations": [
             "dragonspiral-tower-entrance",
             "dragonspiral-tower-outside"
+        ],
+        "types": [
+            "grass",
+            "normal"
         ]
     },
     {
@@ -9484,6 +11512,10 @@
             "unova-route-22-area",
             "unova-route-23-area",
             "kalos-route-10-area"
+        ],
+        "types": [
+            "flying",
+            "electric"
         ]
     },
     {
@@ -9497,6 +11529,9 @@
             "unova-route-11-area",
             "kalos-route-14-area",
             "kalos-route-19-area"
+        ],
+        "types": [
+            "bug"
         ]
     },
     {
@@ -9504,6 +11539,10 @@
         "name": "escavalier",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "steel",
+            "bug"
         ]
     },
     {
@@ -9516,6 +11555,10 @@
             "unova-route-10-victory-road-gate",
             "kalos-route-15-area",
             "kalos-route-16-area"
+        ],
+        "types": [
+            "poison",
+            "grass"
         ]
     },
     {
@@ -9529,6 +11572,10 @@
             "unova-route-23-area",
             "kalos-route-20-area",
             "pokemon-village-area"
+        ],
+        "types": [
+            "poison",
+            "grass"
         ]
     },
     {
@@ -9548,6 +11595,10 @@
             "virbank-complex-outer",
             "seaside-cave-1f",
             "unova-route-21-area"
+        ],
+        "types": [
+            "ghost",
+            "water"
         ]
     },
     {
@@ -9567,6 +11618,10 @@
             "virbank-complex-outer",
             "seaside-cave-1f",
             "unova-route-21-area"
+        ],
+        "types": [
+            "ghost",
+            "water"
         ]
     },
     {
@@ -9583,6 +11638,9 @@
             "unova-route-21-area",
             "shalour-city-area",
             "azure-bay-area"
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -9592,6 +11650,10 @@
             "chargestone-cave-1f",
             "chargestone-cave-b1f",
             "chargestone-cave-b2f"
+        ],
+        "types": [
+            "electric",
+            "bug"
         ]
     },
     {
@@ -9599,6 +11661,10 @@
         "name": "galvantula",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "electric",
+            "bug"
         ]
     },
     {
@@ -9608,6 +11674,10 @@
             "chargestone-cave-1f",
             "chargestone-cave-b1f",
             "chargestone-cave-b2f"
+        ],
+        "types": [
+            "steel",
+            "grass"
         ]
     },
     {
@@ -9615,6 +11685,10 @@
         "name": "ferrothorn",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "steel",
+            "grass"
         ]
     },
     {
@@ -9625,6 +11699,9 @@
             "chargestone-cave-b1f",
             "chargestone-cave-b2f",
             "p2-laboratory-area"
+        ],
+        "types": [
+            "steel"
         ]
     },
     {
@@ -9632,6 +11709,9 @@
         "name": "klang",
         "locations": [
             "p2-laboratory-area"
+        ],
+        "types": [
+            "steel"
         ]
     },
     {
@@ -9639,6 +11719,9 @@
         "name": "klinklang",
         "locations": [
             "p2-laboratory-area"
+        ],
+        "types": [
+            "steel"
         ]
     },
     {
@@ -9649,6 +11732,9 @@
             "chargestone-cave-b1f",
             "chargestone-cave-b2f",
             "seaside-cave-1f"
+        ],
+        "types": [
+            "electric"
         ]
     },
     {
@@ -9656,6 +11742,9 @@
         "name": "eelektrik",
         "locations": [
             "seaside-cave-b1f"
+        ],
+        "types": [
+            "electric"
         ]
     },
     {
@@ -9663,6 +11752,9 @@
         "name": "eelektross",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "electric"
         ]
     },
     {
@@ -9672,6 +11764,9 @@
             "celestial-tower-3f",
             "celestial-tower-4f",
             "celestial-tower-5f"
+        ],
+        "types": [
+            "psychic"
         ]
     },
     {
@@ -9679,6 +11774,9 @@
         "name": "beheeyem",
         "locations": [
             "unova-route-14-area"
+        ],
+        "types": [
+            "psychic"
         ]
     },
     {
@@ -9692,6 +11790,10 @@
             "strange-house-1f",
             "strange-house-b1f",
             "lost-hotel-area"
+        ],
+        "types": [
+            "fire",
+            "ghost"
         ]
     },
     {
@@ -9699,6 +11801,10 @@
         "name": "lampent",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fire",
+            "ghost"
         ]
     },
     {
@@ -9706,6 +11812,10 @@
         "name": "chandelure",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fire",
+            "ghost"
         ]
     },
     {
@@ -9715,6 +11825,9 @@
             "mistralton-cave-area",
             "guidance-chamber-area",
             "connecting-cave-area"
+        ],
+        "types": [
+            "dragon"
         ]
     },
     {
@@ -9723,6 +11836,9 @@
         "locations": [
             "unova-victory-road-outside",
             "nature-sanctuary-area"
+        ],
+        "types": [
+            "dragon"
         ]
     },
     {
@@ -9730,6 +11846,9 @@
         "name": "haxorus",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "dragon"
         ]
     },
     {
@@ -9740,6 +11859,9 @@
             "dragonspiral-tower-entrance",
             "dragonspiral-tower-outside",
             "unova-route-7-area"
+        ],
+        "types": [
+            "ice"
         ]
     },
     {
@@ -9753,6 +11875,9 @@
             "frost-cavern-unknown-area-315",
             "frost-cavern-unknown-area-316",
             "frost-cavern-unknown-area-317"
+        ],
+        "types": [
+            "ice"
         ]
     },
     {
@@ -9764,6 +11889,9 @@
             "frost-cavern-unknown-area-315",
             "frost-cavern-unknown-area-316",
             "frost-cavern-unknown-area-317"
+        ],
+        "types": [
+            "ice"
         ]
     },
     {
@@ -9777,6 +11905,9 @@
             "unova-route-11-area",
             "kalos-route-14-area",
             "kalos-route-19-area"
+        ],
+        "types": [
+            "bug"
         ]
     },
     {
@@ -9784,6 +11915,9 @@
         "name": "accelgor",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "bug"
         ]
     },
     {
@@ -9795,6 +11929,10 @@
             "moor-of-icirrus-area",
             "kalos-route-14-area",
             "kalos-route-19-area"
+        ],
+        "types": [
+            "electric",
+            "ground"
         ]
     },
     {
@@ -9824,6 +11962,9 @@
             "unova-route-22-area",
             "unova-route-23-area",
             "kalos-route-8-area"
+        ],
+        "types": [
+            "fighting"
         ]
     },
     {
@@ -9835,6 +11976,9 @@
             "dragonspiral-tower-1f",
             "unova-route-14-area",
             "unova-route-23-area"
+        ],
+        "types": [
+            "fighting"
         ]
     },
     {
@@ -9850,6 +11994,9 @@
             "kalos-victory-road-unknown-area-324",
             "kalos-victory-road-unknown-area-326",
             "kalos-victory-road-unknown-area-328"
+        ],
+        "types": [
+            "dragon"
         ]
     },
     {
@@ -9859,6 +12006,10 @@
             "dragonspiral-tower-1f",
             "dragonspiral-tower-2f",
             "kalos-route-10-area"
+        ],
+        "types": [
+            "ghost",
+            "ground"
         ]
     },
     {
@@ -9869,6 +12020,10 @@
             "dragonspiral-tower-2f",
             "unova-victory-road-2-unknown-area-71",
             "unova-victory-road-2-unknown-area-78"
+        ],
+        "types": [
+            "ghost",
+            "ground"
         ]
     },
     {
@@ -9879,6 +12034,10 @@
             "unova-route-11-area",
             "kalos-route-15-area",
             "lost-hotel-area"
+        ],
+        "types": [
+            "steel",
+            "dark"
         ]
     },
     {
@@ -9886,6 +12045,10 @@
         "name": "bisharp",
         "locations": [
             "unova-route-11-area"
+        ],
+        "types": [
+            "steel",
+            "dark"
         ]
     },
     {
@@ -9895,6 +12058,9 @@
             "unova-route-10-area",
             "unova-route-10-victory-road-gate",
             "unova-route-23-area"
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -9907,6 +12073,10 @@
             "unova-route-10-victory-road-gate",
             "unova-route-11-area",
             "unova-route-23-area"
+        ],
+        "types": [
+            "flying",
+            "normal"
         ]
     },
     {
@@ -9915,6 +12085,10 @@
         "locations": [
             "village-bridge-area",
             "unova-route-11-area"
+        ],
+        "types": [
+            "flying",
+            "normal"
         ]
     },
     {
@@ -9927,6 +12101,10 @@
             "unova-route-10-victory-road-gate",
             "unova-route-11-area",
             "unova-route-23-area"
+        ],
+        "types": [
+            "flying",
+            "dark"
         ]
     },
     {
@@ -9935,6 +12113,10 @@
         "locations": [
             "village-bridge-area",
             "unova-route-11-area"
+        ],
+        "types": [
+            "flying",
+            "dark"
         ]
     },
     {
@@ -9944,6 +12126,9 @@
             "twist-mountain-area",
             "unova-victory-road-outside",
             "kalos-route-18-area"
+        ],
+        "types": [
+            "fire"
         ]
     },
     {
@@ -9977,6 +12162,10 @@
             "terminus-cave-unknown-area-345",
             "terminus-cave-unknown-area-347",
             "terminus-cave-unknown-area-348"
+        ],
+        "types": [
+            "steel",
+            "bug"
         ]
     },
     {
@@ -9985,6 +12174,10 @@
         "locations": [
             "unova-victory-road-unknown-area-53",
             "unova-victory-road-unknown-area-58"
+        ],
+        "types": [
+            "dragon",
+            "dark"
         ]
     },
     {
@@ -9997,6 +12190,10 @@
             "kalos-victory-road-unknown-area-324",
             "kalos-victory-road-unknown-area-326",
             "kalos-victory-road-unknown-area-328"
+        ],
+        "types": [
+            "dragon",
+            "dark"
         ]
     },
     {
@@ -10004,6 +12201,10 @@
         "name": "hydreigon",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "dragon",
+            "dark"
         ]
     },
     {
@@ -10011,6 +12212,10 @@
         "name": "larvesta",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fire",
+            "bug"
         ]
     },
     {
@@ -10018,6 +12223,10 @@
         "name": "volcarona",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fire",
+            "bug"
         ]
     },
     {
@@ -10025,6 +12234,10 @@
         "name": "cobalion",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fighting",
+            "steel"
         ]
     },
     {
@@ -10032,6 +12245,10 @@
         "name": "terrakion",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fighting",
+            "rock"
         ]
     },
     {
@@ -10039,6 +12256,10 @@
         "name": "virizion",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fighting",
+            "grass"
         ]
     },
     {
@@ -10046,6 +12267,9 @@
         "name": "tornadus-incarnate",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "flying"
         ]
     },
     {
@@ -10053,6 +12277,10 @@
         "name": "thundurus-incarnate",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "flying",
+            "electric"
         ]
     },
     {
@@ -10060,6 +12288,10 @@
         "name": "reshiram",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fire",
+            "dragon"
         ]
     },
     {
@@ -10067,6 +12299,10 @@
         "name": "zekrom",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "electric",
+            "dragon"
         ]
     },
     {
@@ -10074,6 +12310,10 @@
         "name": "landorus-incarnate",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "flying",
+            "ground"
         ]
     },
     {
@@ -10081,6 +12321,10 @@
         "name": "kyurem",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "ice",
+            "dragon"
         ]
     },
     {
@@ -10088,6 +12332,10 @@
         "name": "keldeo-ordinary",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fighting",
+            "water"
         ]
     },
     {
@@ -10095,6 +12343,10 @@
         "name": "meloetta-aria",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "psychic",
+            "normal"
         ]
     },
     {
@@ -10102,6 +12354,10 @@
         "name": "genesect",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "steel",
+            "bug"
         ]
     },
     {
@@ -10109,6 +12365,9 @@
         "name": "chespin",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "grass"
         ]
     },
     {
@@ -10116,6 +12375,9 @@
         "name": "quilladin",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "grass"
         ]
     },
     {
@@ -10123,6 +12385,10 @@
         "name": "chesnaught",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fighting",
+            "grass"
         ]
     },
     {
@@ -10130,6 +12396,9 @@
         "name": "fennekin",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fire"
         ]
     },
     {
@@ -10137,6 +12406,9 @@
         "name": "braixen",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fire"
         ]
     },
     {
@@ -10144,6 +12416,10 @@
         "name": "delphox",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "psychic",
+            "fire"
         ]
     },
     {
@@ -10151,6 +12427,9 @@
         "name": "froakie",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -10158,6 +12437,9 @@
         "name": "frogadier",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -10165,6 +12447,10 @@
         "name": "greninja",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "dark",
+            "water"
         ]
     },
     {
@@ -10175,6 +12461,9 @@
             "kalos-route-3-area",
             "kalos-route-5-area",
             "kalos-route-22-area"
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -10182,6 +12471,10 @@
         "name": "diggersby",
         "locations": [
             "kalos-route-22-area"
+        ],
+        "types": [
+            "ground",
+            "normal"
         ]
     },
     {
@@ -10191,6 +12484,10 @@
             "kalos-route-2-area",
             "kalos-route-3-area",
             "santalune-forest-area"
+        ],
+        "types": [
+            "flying",
+            "normal"
         ]
     },
     {
@@ -10198,6 +12495,10 @@
         "name": "fletchinder",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "flying",
+            "fire"
         ]
     },
     {
@@ -10205,6 +12506,10 @@
         "name": "talonflame",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "flying",
+            "fire"
         ]
     },
     {
@@ -10213,6 +12518,9 @@
         "locations": [
             "kalos-route-2-area",
             "santalune-forest-area"
+        ],
+        "types": [
+            "bug"
         ]
     },
     {
@@ -10220,6 +12528,9 @@
         "name": "spewpa",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "bug"
         ]
     },
     {
@@ -10227,6 +12538,10 @@
         "name": "vivillon",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "flying",
+            "bug"
         ]
     },
     {
@@ -10234,6 +12549,10 @@
         "name": "litleo",
         "locations": [
             "kalos-route-22-area"
+        ],
+        "types": [
+            "normal",
+            "fire"
         ]
     },
     {
@@ -10241,6 +12560,10 @@
         "name": "pyroar",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "normal",
+            "fire"
         ]
     },
     {
@@ -10249,6 +12572,9 @@
         "locations": [
             "kalos-route-4-area",
             "kalos-route-7-area"
+        ],
+        "types": [
+            "fairy"
         ]
     },
     {
@@ -10256,6 +12582,9 @@
         "name": "floette",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fairy"
         ]
     },
     {
@@ -10263,6 +12592,9 @@
         "name": "florges",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fairy"
         ]
     },
     {
@@ -10270,6 +12602,9 @@
         "name": "skiddo",
         "locations": [
             "kalos-route-5-area"
+        ],
+        "types": [
+            "grass"
         ]
     },
     {
@@ -10277,6 +12612,9 @@
         "name": "gogoat",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "grass"
         ]
     },
     {
@@ -10284,6 +12622,9 @@
         "name": "pancham",
         "locations": [
             "kalos-route-5-area"
+        ],
+        "types": [
+            "fighting"
         ]
     },
     {
@@ -10291,6 +12632,10 @@
         "name": "pangoro",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "dark",
+            "fighting"
         ]
     },
     {
@@ -10298,6 +12643,9 @@
         "name": "furfrou",
         "locations": [
             "kalos-route-5-area"
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -10305,6 +12653,9 @@
         "name": "espurr",
         "locations": [
             "kalos-route-6-area"
+        ],
+        "types": [
+            "psychic"
         ]
     },
     {
@@ -10312,6 +12663,9 @@
         "name": "meowstic-male",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "psychic"
         ]
     },
     {
@@ -10319,6 +12673,10 @@
         "name": "honedge",
         "locations": [
             "kalos-route-6-area"
+        ],
+        "types": [
+            "ghost",
+            "steel"
         ]
     },
     {
@@ -10326,6 +12684,10 @@
         "name": "doublade",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "ghost",
+            "steel"
         ]
     },
     {
@@ -10333,6 +12695,10 @@
         "name": "aegislash-shield",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "ghost",
+            "steel"
         ]
     },
     {
@@ -10340,6 +12706,9 @@
         "name": "spritzee",
         "locations": [
             "kalos-route-7-area"
+        ],
+        "types": [
+            "fairy"
         ]
     },
     {
@@ -10347,6 +12716,9 @@
         "name": "aromatisse",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fairy"
         ]
     },
     {
@@ -10354,6 +12726,9 @@
         "name": "swirlix",
         "locations": [
             "kalos-route-7-area"
+        ],
+        "types": [
+            "fairy"
         ]
     },
     {
@@ -10361,6 +12736,9 @@
         "name": "slurpuff",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fairy"
         ]
     },
     {
@@ -10369,6 +12747,10 @@
         "locations": [
             "kalos-route-8-area",
             "azure-bay-area"
+        ],
+        "types": [
+            "psychic",
+            "dark"
         ]
     },
     {
@@ -10376,6 +12758,10 @@
         "name": "malamar",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "psychic",
+            "dark"
         ]
     },
     {
@@ -10387,6 +12773,10 @@
             "kalos-route-8-area",
             "kalos-route-12-area",
             "azure-bay-area"
+        ],
+        "types": [
+            "water",
+            "rock"
         ]
     },
     {
@@ -10394,6 +12784,10 @@
         "name": "barbaracle",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "water",
+            "rock"
         ]
     },
     {
@@ -10403,6 +12797,10 @@
             "ambrette-town-area",
             "cyllage-city-area",
             "kalos-route-8-area"
+        ],
+        "types": [
+            "water",
+            "poison"
         ]
     },
     {
@@ -10412,6 +12810,10 @@
             "ambrette-town-area",
             "cyllage-city-area",
             "kalos-route-8-area"
+        ],
+        "types": [
+            "dragon",
+            "poison"
         ]
     },
     {
@@ -10421,6 +12823,9 @@
             "ambrette-town-area",
             "cyllage-city-area",
             "kalos-route-8-area"
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -10430,6 +12835,9 @@
             "ambrette-town-area",
             "cyllage-city-area",
             "kalos-route-8-area"
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -10437,6 +12845,10 @@
         "name": "helioptile",
         "locations": [
             "kalos-route-9-area"
+        ],
+        "types": [
+            "normal",
+            "electric"
         ]
     },
     {
@@ -10444,6 +12856,10 @@
         "name": "heliolisk",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "normal",
+            "electric"
         ]
     },
     {
@@ -10451,6 +12867,10 @@
         "name": "tyrunt",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "dragon",
+            "rock"
         ]
     },
     {
@@ -10458,6 +12878,10 @@
         "name": "tyrantrum",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "dragon",
+            "rock"
         ]
     },
     {
@@ -10465,6 +12889,10 @@
         "name": "amaura",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "ice",
+            "rock"
         ]
     },
     {
@@ -10472,6 +12900,10 @@
         "name": "aurorus",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "ice",
+            "rock"
         ]
     },
     {
@@ -10479,6 +12911,9 @@
         "name": "sylveon",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fairy"
         ]
     },
     {
@@ -10486,6 +12921,10 @@
         "name": "hawlucha",
         "locations": [
             "kalos-route-10-area"
+        ],
+        "types": [
+            "flying",
+            "fighting"
         ]
     },
     {
@@ -10493,6 +12932,10 @@
         "name": "dedenne",
         "locations": [
             "kalos-route-11-area"
+        ],
+        "types": [
+            "fairy",
+            "electric"
         ]
     },
     {
@@ -10503,6 +12946,10 @@
             "reflection-cave-unknown-area-306",
             "reflection-cave-unknown-area-307",
             "reflection-cave-unknown-area-308"
+        ],
+        "types": [
+            "fairy",
+            "rock"
         ]
     },
     {
@@ -10510,6 +12957,9 @@
         "name": "goomy",
         "locations": [
             "kalos-route-14-area"
+        ],
+        "types": [
+            "dragon"
         ]
     },
     {
@@ -10517,6 +12967,9 @@
         "name": "sliggoo",
         "locations": [
             "kalos-route-19-area"
+        ],
+        "types": [
+            "dragon"
         ]
     },
     {
@@ -10524,6 +12977,9 @@
         "name": "goodra",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "dragon"
         ]
     },
     {
@@ -10533,6 +12989,10 @@
             "kalos-route-15-area",
             "kalos-route-16-area",
             "lost-hotel-area"
+        ],
+        "types": [
+            "fairy",
+            "steel"
         ]
     },
     {
@@ -10540,6 +13000,10 @@
         "name": "phantump",
         "locations": [
             "kalos-route-16-area"
+        ],
+        "types": [
+            "grass",
+            "ghost"
         ]
     },
     {
@@ -10547,6 +13011,10 @@
         "name": "trevenant",
         "locations": [
             "kalos-route-20-area"
+        ],
+        "types": [
+            "grass",
+            "ghost"
         ]
     },
     {
@@ -10554,6 +13022,10 @@
         "name": "pumpkaboo-average",
         "locations": [
             "kalos-route-16-area"
+        ],
+        "types": [
+            "grass",
+            "ghost"
         ]
     },
     {
@@ -10561,6 +13033,10 @@
         "name": "gourgeist-average",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "grass",
+            "ghost"
         ]
     },
     {
@@ -10571,6 +13047,9 @@
             "frost-cavern-unknown-area-315",
             "frost-cavern-unknown-area-316",
             "frost-cavern-unknown-area-317"
+        ],
+        "types": [
+            "ice"
         ]
     },
     {
@@ -10578,6 +13057,9 @@
         "name": "avalugg",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "ice"
         ]
     },
     {
@@ -10585,6 +13067,10 @@
         "name": "noibat",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "dragon",
+            "flying"
         ]
     },
     {
@@ -10592,6 +13078,10 @@
         "name": "noivern",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "dragon",
+            "flying"
         ]
     },
     {
@@ -10599,6 +13089,9 @@
         "name": "xerneas",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fairy"
         ]
     },
     {
@@ -10606,6 +13099,10 @@
         "name": "yveltal",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "flying",
+            "dark"
         ]
     },
     {
@@ -10613,6 +13110,10 @@
         "name": "zygarde",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "ground",
+            "dragon"
         ]
     },
     {
@@ -10620,6 +13121,10 @@
         "name": "diancie",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fairy",
+            "rock"
         ]
     },
     {
@@ -10627,6 +13132,10 @@
         "name": "hoopa",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "ghost",
+            "psychic"
         ]
     },
     {
@@ -10634,6 +13143,10 @@
         "name": "volcanion",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "water",
+            "fire"
         ]
     },
     {
@@ -10641,6 +13154,10 @@
         "name": "rowlet",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "flying",
+            "grass"
         ]
     },
     {
@@ -10648,6 +13165,10 @@
         "name": "dartrix",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "flying",
+            "grass"
         ]
     },
     {
@@ -10655,6 +13176,10 @@
         "name": "decidueye",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "ghost",
+            "grass"
         ]
     },
     {
@@ -10662,6 +13187,9 @@
         "name": "litten",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fire"
         ]
     },
     {
@@ -10669,6 +13197,9 @@
         "name": "torracat",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fire"
         ]
     },
     {
@@ -10676,6 +13207,10 @@
         "name": "incineroar",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "dark",
+            "fire"
         ]
     },
     {
@@ -10683,6 +13218,9 @@
         "name": "popplio",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -10690,6 +13228,9 @@
         "name": "brionne",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -10697,6 +13238,10 @@
         "name": "primarina",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fairy",
+            "water"
         ]
     },
     {
@@ -10704,6 +13249,10 @@
         "name": "pikipek",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "flying",
+            "normal"
         ]
     },
     {
@@ -10711,6 +13260,10 @@
         "name": "trumbeak",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "flying",
+            "normal"
         ]
     },
     {
@@ -10718,6 +13271,10 @@
         "name": "toucannon",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "flying",
+            "normal"
         ]
     },
     {
@@ -10725,6 +13282,9 @@
         "name": "yungoos",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -10732,6 +13292,9 @@
         "name": "gumshoos",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -10739,6 +13302,9 @@
         "name": "grubbin",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "bug"
         ]
     },
     {
@@ -10746,6 +13312,10 @@
         "name": "charjabug",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "electric",
+            "bug"
         ]
     },
     {
@@ -10753,6 +13323,10 @@
         "name": "vikavolt",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "electric",
+            "bug"
         ]
     },
     {
@@ -10760,6 +13334,9 @@
         "name": "crabrawler",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fighting"
         ]
     },
     {
@@ -10767,6 +13344,10 @@
         "name": "crabominable",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "ice",
+            "fighting"
         ]
     },
     {
@@ -10774,6 +13355,10 @@
         "name": "oricorio-baile",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "flying",
+            "fire"
         ]
     },
     {
@@ -10781,6 +13366,10 @@
         "name": "cutiefly",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fairy",
+            "bug"
         ]
     },
     {
@@ -10788,6 +13377,10 @@
         "name": "ribombee",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fairy",
+            "bug"
         ]
     },
     {
@@ -10795,6 +13388,9 @@
         "name": "rockruff",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "rock"
         ]
     },
     {
@@ -10802,6 +13398,9 @@
         "name": "lycanroc-midday",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "rock"
         ]
     },
     {
@@ -10809,6 +13408,9 @@
         "name": "wishiwashi-solo",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -10816,6 +13418,10 @@
         "name": "mareanie",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "water",
+            "poison"
         ]
     },
     {
@@ -10823,6 +13429,10 @@
         "name": "toxapex",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "water",
+            "poison"
         ]
     },
     {
@@ -10830,6 +13440,9 @@
         "name": "mudbray",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "ground"
         ]
     },
     {
@@ -10837,6 +13450,9 @@
         "name": "mudsdale",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "ground"
         ]
     },
     {
@@ -10844,6 +13460,10 @@
         "name": "dewpider",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "bug",
+            "water"
         ]
     },
     {
@@ -10851,6 +13471,10 @@
         "name": "araquanid",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "bug",
+            "water"
         ]
     },
     {
@@ -10858,6 +13482,9 @@
         "name": "fomantis",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "grass"
         ]
     },
     {
@@ -10865,6 +13492,9 @@
         "name": "lurantis",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "grass"
         ]
     },
     {
@@ -10872,6 +13502,10 @@
         "name": "morelull",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fairy",
+            "grass"
         ]
     },
     {
@@ -10879,6 +13513,10 @@
         "name": "shiinotic",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fairy",
+            "grass"
         ]
     },
     {
@@ -10886,6 +13524,10 @@
         "name": "salandit",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fire",
+            "poison"
         ]
     },
     {
@@ -10893,6 +13535,10 @@
         "name": "salazzle",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fire",
+            "poison"
         ]
     },
     {
@@ -10900,6 +13546,10 @@
         "name": "stufful",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fighting",
+            "normal"
         ]
     },
     {
@@ -10907,6 +13557,10 @@
         "name": "bewear",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fighting",
+            "normal"
         ]
     },
     {
@@ -10914,6 +13568,9 @@
         "name": "bounsweet",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "grass"
         ]
     },
     {
@@ -10921,6 +13578,9 @@
         "name": "steenee",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "grass"
         ]
     },
     {
@@ -10928,6 +13588,9 @@
         "name": "tsareena",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "grass"
         ]
     },
     {
@@ -10935,6 +13598,9 @@
         "name": "comfey",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fairy"
         ]
     },
     {
@@ -10942,6 +13608,10 @@
         "name": "oranguru",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "psychic",
+            "normal"
         ]
     },
     {
@@ -10949,6 +13619,9 @@
         "name": "passimian",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fighting"
         ]
     },
     {
@@ -10956,6 +13629,10 @@
         "name": "wimpod",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "water",
+            "bug"
         ]
     },
     {
@@ -10963,6 +13640,10 @@
         "name": "golisopod",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "water",
+            "bug"
         ]
     },
     {
@@ -10970,6 +13651,10 @@
         "name": "sandygast",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "ground",
+            "ghost"
         ]
     },
     {
@@ -10977,6 +13662,10 @@
         "name": "palossand",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "ground",
+            "ghost"
         ]
     },
     {
@@ -10984,6 +13673,9 @@
         "name": "pyukumuku",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "water"
         ]
     },
     {
@@ -10991,6 +13683,9 @@
         "name": "type-null",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -10998,6 +13693,9 @@
         "name": "silvally",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -11005,6 +13703,10 @@
         "name": "minior-red-meteor",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "flying",
+            "rock"
         ]
     },
     {
@@ -11012,6 +13714,9 @@
         "name": "komala",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "normal"
         ]
     },
     {
@@ -11019,6 +13724,10 @@
         "name": "turtonator",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "dragon",
+            "fire"
         ]
     },
     {
@@ -11026,6 +13735,10 @@
         "name": "togedemaru",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "steel",
+            "electric"
         ]
     },
     {
@@ -11033,6 +13746,10 @@
         "name": "mimikyu-disguised",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fairy",
+            "ghost"
         ]
     },
     {
@@ -11040,6 +13757,10 @@
         "name": "bruxish",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "psychic",
+            "water"
         ]
     },
     {
@@ -11047,6 +13768,10 @@
         "name": "drampa",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "dragon",
+            "normal"
         ]
     },
     {
@@ -11054,6 +13779,10 @@
         "name": "dhelmise",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "grass",
+            "ghost"
         ]
     },
     {
@@ -11061,6 +13790,9 @@
         "name": "jangmo-o",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "dragon"
         ]
     },
     {
@@ -11068,6 +13800,10 @@
         "name": "hakamo-o",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fighting",
+            "dragon"
         ]
     },
     {
@@ -11075,6 +13811,10 @@
         "name": "kommo-o",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fighting",
+            "dragon"
         ]
     },
     {
@@ -11082,6 +13822,10 @@
         "name": "tapu-koko",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fairy",
+            "electric"
         ]
     },
     {
@@ -11089,6 +13833,10 @@
         "name": "tapu-lele",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fairy",
+            "psychic"
         ]
     },
     {
@@ -11096,6 +13844,10 @@
         "name": "tapu-bulu",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fairy",
+            "grass"
         ]
     },
     {
@@ -11103,6 +13855,10 @@
         "name": "tapu-fini",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fairy",
+            "water"
         ]
     },
     {
@@ -11110,6 +13866,9 @@
         "name": "cosmog",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "psychic"
         ]
     },
     {
@@ -11117,6 +13876,9 @@
         "name": "cosmoem",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "psychic"
         ]
     },
     {
@@ -11124,6 +13886,10 @@
         "name": "solgaleo",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "steel",
+            "psychic"
         ]
     },
     {
@@ -11131,6 +13897,10 @@
         "name": "lunala",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "ghost",
+            "psychic"
         ]
     },
     {
@@ -11138,6 +13908,10 @@
         "name": "nihilego",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "poison",
+            "rock"
         ]
     },
     {
@@ -11145,6 +13919,10 @@
         "name": "buzzwole",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fighting",
+            "bug"
         ]
     },
     {
@@ -11152,6 +13930,10 @@
         "name": "pheromosa",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fighting",
+            "bug"
         ]
     },
     {
@@ -11159,6 +13941,9 @@
         "name": "xurkitree",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "electric"
         ]
     },
     {
@@ -11166,6 +13951,10 @@
         "name": "celesteela",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "flying",
+            "steel"
         ]
     },
     {
@@ -11173,6 +13962,10 @@
         "name": "kartana",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "steel",
+            "grass"
         ]
     },
     {
@@ -11180,6 +13973,10 @@
         "name": "guzzlord",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "dragon",
+            "dark"
         ]
     },
     {
@@ -11187,6 +13984,9 @@
         "name": "necrozma",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "psychic"
         ]
     },
     {
@@ -11194,6 +13994,10 @@
         "name": "magearna",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "fairy",
+            "steel"
         ]
     },
     {
@@ -11201,6 +14005,10 @@
         "name": "marshadow",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "ghost",
+            "fighting"
         ]
     },
     {
@@ -11208,6 +14016,9 @@
         "name": "poipole",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "poison"
         ]
     },
     {
@@ -11215,6 +14026,10 @@
         "name": "naganadel",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "dragon",
+            "poison"
         ]
     },
     {
@@ -11222,6 +14037,10 @@
         "name": "stakataka",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "steel",
+            "rock"
         ]
     },
     {
@@ -11229,6 +14048,10 @@
         "name": "blacephalon",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "ghost",
+            "fire"
         ]
     },
     {
@@ -11236,6 +14059,9 @@
         "name": "zeraora",
         "locations": [
             "This Pokemon cannot be encountered in the wild."
+        ],
+        "types": [
+            "electric"
         ]
     }
 ]

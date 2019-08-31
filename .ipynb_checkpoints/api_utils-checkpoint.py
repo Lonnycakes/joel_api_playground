@@ -21,9 +21,6 @@ def get_location(poke_id):
         return ['This Pokemon cannot be encountered in the wild.']
     return results
 
-def get_types():
-    pass
-
 def get_image():
     pass
 
@@ -33,11 +30,6 @@ def clean_location(locations):
         results.append(location['name'])
     return []
 
-def save_pokedex(pokedex, name):
-    pokedex_file = '{}.txt'.format(name)
-    with open(pokedex_file, 'w') as outfile:
-        json.dump(pokedex, outfile, indent=4)
-        
 def get_type(poke_id):
     results = []
     url = poke_url.format(group = "pokemon", ID = poke_id)
@@ -72,9 +64,3 @@ def create_pokedex(poke_url):
             running = False
     print('Finished!')
     return pokedex
-
-def load_pokedex(pokedex_file):
-    filename = '{}.txt'.format(pokedex_file)
-    with open(filename) as json_file:
-        pokedex = json.load(json_file)
-        return pokedex
