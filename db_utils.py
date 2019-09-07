@@ -34,17 +34,3 @@ def get_type_db(file_name, ID):
     for pokemon in pokedex:
         if ID == pokemon['name'] or ID == pokemon['number']:
             return pokemon['types']
-    
-'''
-get_pokemon - gets all the Pokemon data in the dictionary
-
-What functionality do I want for the Pokedex, and how do I want it to work?
-
-THink about creating an interface that is friendly and understandable.
-
-Tasks as of 8/24/2019:
-1. Get the types into the db and create a new pokedex file that includes the types. (DONE: 8/30)
-2. Write a function for getting the types from the db. (DONE)
-3. Begin writing functionality for the interface.
-
-'''

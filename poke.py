@@ -4,30 +4,18 @@ from pprint import pprint
 from api_utils import poke_url, create_pokedex, get_location, get_type
 from db_utils import save_pokedex, load_pokedex, get_pokemon_name_db, get_pokemon_number_db, get_location_db, get_type_db
 
-# pokedex = load_pokedex('pokedex_file')
+def pokedex_interface():
+    pass
 
-# print(pokedex[0])
 
-# pokedex = create_pokedex(poke_url)
 
-# save_pokedex(pokedex, 'pokedex_file')
+'''
+What functionality do I want for the Pokedex, and how do I want it to work?
 
-bulbasaur = get_type(1)
-# pprint(bulbasaur['types'])
-print(bulbasaur)
+Think about creating an interface that is friendly and understandable.
 
-charmander = get_type(4)
-# pprint(charmander['types'])
-print(charmander)
-
-mewtwo = get_pokemon_name('pokedex_file', 150)
-print(mewtwo)
-
-mew = get_pokemon_number('pokedex_file', 'mew')
-print(mew)
-
-butterfree = get_location_db('pokedex_file', 'butterfree')
-print(butterfree)
-
-hitmonlee = get_type_db('pokedex_file', 'hitmonlee')
-print(hitmonlee)
+Tasks as of 8/24/2019:
+1. Get the types into the db and create a new pokedex file that includes the types. (DONE: 8/30)
+2. Write a function for getting the types from the db. (DONE)
+3. Begin writing functionality for the interface.
+'''
